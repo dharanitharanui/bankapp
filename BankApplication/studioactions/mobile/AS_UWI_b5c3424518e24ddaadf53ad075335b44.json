@@ -1,0 +1,32 @@
+{
+    "AS_UWI_b5c3424518e24ddaadf53ad075335b44": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "Accounts",
+                "id": "INVOKE_FUNCTION___e510c5c6bcdb4c6c9bd4cacc5082fed8",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "Accounts",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "name": "frmDashBoard",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_b5c3424518e24ddaadf53ad075335b44",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

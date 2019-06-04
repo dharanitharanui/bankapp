@@ -1,0 +1,32 @@
+{
+    "AS_Form_f61346a5c036473bab2e4944277a339a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "LabelText",
+                "id": "INVOKE_FUNCTION___f49e1f8b35ec4e8cbf882bbbdd79b5c6",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "LabelText",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": null,
+            "type": "forms"
+        },
+        "id": "AS_Form_f61346a5c036473bab2e4944277a339a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

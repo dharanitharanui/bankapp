@@ -1,0 +1,20 @@
+{
+    "AS_Button_hecd8139f1d740c9929ca309a3a763df": {
+        "actions": [],
+        "contextObj": {
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "name": "frmDashBoard",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Button_hecd8139f1d740c9929ca309a3a763df",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

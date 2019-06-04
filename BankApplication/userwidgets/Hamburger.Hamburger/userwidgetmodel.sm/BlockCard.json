@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "OptionText": "BlockCard",
+        "VisibleBank": true,
+        "VisibleImage": true,
+        "Visibleflex": true,
+        "contentAlignment": {
+            "Default": 4
+        },
+        "height1": {
+            "Default": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "height3": {
+            "Default": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "isVisible3": false,
+        "left2": {
+            "Default": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "left3": {
+            "Default": {
+                "type": "string",
+                "value": "2%"
+            }
+        },
+        "skin2": "s862de03a0334e9db1bc93906741dec3",
+        "src": "cardblock.png",
+        "top1": {
+            "Default": {
+                "type": "string",
+                "value": "8%"
+            }
+        },
+        "top2": {
+            "Default": {
+                "type": "string",
+                "value": "25%"
+            }
+        },
+        "width2": {
+            "Default": {
+                "type": "string",
+                "value": "22%"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "BlockCard",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": false,
+    "kuid": "a8477c78003543a29c88e07014e17b56",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Hamburger",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "j28bb85e004b46289ebfcbf467702d9c",
+    "wType": "UserWidgetInstance"
+}

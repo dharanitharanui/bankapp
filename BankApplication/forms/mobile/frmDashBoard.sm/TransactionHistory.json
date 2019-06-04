@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "46.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "51.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "51%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "48%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "OptionText": "Transaction History",
+        "VisibleImage": true,
+        "centerX1": {
+            "Default": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "centerX2": {
+            "Default": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "centerY1": {
+            "Default": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "centerY2": {
+            "Default": {
+                "type": "string",
+                "value": "40%"
+            }
+        },
+        "contentAlignment": {
+            "Default": 5
+        },
+        "height1": {
+            "Default": {
+                "type": "string",
+                "value": "20%"
+            }
+        },
+        "height2": {
+            "Default": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "height3": {
+            "Default": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "left2": {
+            "Default": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "left3": {
+            "Default": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "skin1": "s41ec714fb8544a1b2f606d97fefce6d",
+        "skin2": "s6d1b26e646445b49ec2cc7bb65c7fd4",
+        "src": "paymenthistory.png",
+        "top1": {
+            "Default": {
+                "type": "string",
+                "value": "65%"
+            }
+        },
+        "width1": {
+            "Default": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "width2": {
+            "Default": {
+                "type": "string",
+                "value": "25%"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "TransactionHistory",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "cfa574830e4f4c91b5ca7d3e854c154c",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxBankOptions",
+    "pf": "frmDashBoard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "j28bb85e004b46289ebfcbf467702d9c",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,31 @@
+{
+    "AS_UWI_fe70bab814964ae9b36c8d1dad531f4e": {
+        "actions": [
+            {
+                "disabled": null,
+                "display": "Answer5",
+                "id": "INVOKE_FUNCTION___g79c5268ee624d15a3a4315d720fcb60",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "Answer5",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_fe70bab814964ae9b36c8d1dad531f4e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

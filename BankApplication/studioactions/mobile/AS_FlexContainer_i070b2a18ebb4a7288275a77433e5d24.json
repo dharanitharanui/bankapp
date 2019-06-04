@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_i070b2a18ebb4a7288275a77433e5d24": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.HamurgerOut();",
+                "id": "ADD_SNIPPET__a41dde63be144b93b5355128525b58da",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_FlexContainer_i070b2a18ebb4a7288275a77433e5d24",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_UWI_fe6ffbc5d586416885aa124070932a32": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "Home",
+                "id": "INVOKE_FUNCTION___b0bd871e07334a0eac81bbdec9a03ad3",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "Home",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "ue706e3e077a4a07afb3aac7cfa986a6",
+            "name": "uwue706e3e077a4a07afb3aac7cfa986a6",
+            "type": "userwidgets"
+        },
+        "id": "AS_UWI_fe6ffbc5d586416885aa124070932a32",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

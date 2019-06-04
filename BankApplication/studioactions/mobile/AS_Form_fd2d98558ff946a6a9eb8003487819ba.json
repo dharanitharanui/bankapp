@@ -1,0 +1,32 @@
+{
+    "AS_Form_fd2d98558ff946a6a9eb8003487819ba": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "Timer",
+                "id": "INVOKE_FUNCTION___h1b730222f394938b9107c2a70a3e227",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "Timer",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "name": "frmDashBoard",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_fd2d98558ff946a6a9eb8003487819ba",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

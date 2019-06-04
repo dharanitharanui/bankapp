@@ -1,0 +1,28 @@
+{
+    "AS_UWI_c5962cb868b84f09ac23b90812ab663e": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.view.flxAnswers.isVisible=false;",
+                "id": "ADD_SNIPPET__bcb80f36c1624c97920184fb3b63bbdc",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_c5962cb868b84f09ac23b90812ab663e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

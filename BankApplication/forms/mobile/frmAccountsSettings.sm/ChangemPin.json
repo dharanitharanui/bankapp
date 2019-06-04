@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "OptionText": "Change mPIN",
+        "VisibleImage": false,
+        "centerY1": {
+            "Default": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "isVisible3": true,
+        "left2": {
+            "Default": {
+                "type": "string",
+                "value": "5%"
+            }
+        },
+        "skin2": "s1df64134e564c6eaa37190743fa99bb",
+        "srcarrow": "bank_settings_frontarrow.png"
+    },
+    "enablescrolling": true,
+    "id": "ChangemPin",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "dce04e99a6e84e1084e1a78a73c6b98c",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSettings",
+    "pf": "frmAccountsSettings",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "j28bb85e004b46289ebfcbf467702d9c",
+    "wType": "UserWidgetInstance"
+}

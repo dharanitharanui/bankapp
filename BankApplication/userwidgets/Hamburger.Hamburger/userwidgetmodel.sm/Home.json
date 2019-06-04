@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "OptionText": "Home",
+        "VisibleImage": true,
+        "centerY1": {
+            "Default": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "contentAlignment": {
+            "Default": 4
+        },
+        "height1": {
+            "Default": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "ide_onClick": "AS_UWI_fe6ffbc5d586416885aa124070932a32",
+        "skin2": "s862de03a0334e9db1bc93906741dec3",
+        "src": "homeblack.png",
+        "top1": {
+            "Default": {
+                "type": "string",
+                "value": "8%"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "Home",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "ief25b6c2d0b46c4a1d4b5a91731330c",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Hamburger",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "j28bb85e004b46289ebfcbf467702d9c",
+    "wType": "UserWidgetInstance"
+}

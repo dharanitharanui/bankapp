@@ -1,0 +1,28 @@
+{
+    "AS_Form_ac3b9acb6ea74fada3ad98fb9f29d125": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.view.flxIconDashBoard.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxIconDashBoard.shadowDepth=8;\nthis.view.flxDashBoard.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxDashBoard.shadowDepth=10;",
+                "id": "ADD_SNIPPET__h64b5ce0423040c4990b0c7f4f6b001e",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "name": "frmDashBoard",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_ac3b9acb6ea74fada3ad98fb9f29d125",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

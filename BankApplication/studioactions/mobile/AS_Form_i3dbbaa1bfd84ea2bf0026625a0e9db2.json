@@ -1,0 +1,20 @@
+{
+    "AS_Form_i3dbbaa1bfd84ea2bf0026625a0e9db2": {
+        "actions": [],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": null,
+            "type": "forms"
+        },
+        "id": "AS_Form_i3dbbaa1bfd84ea2bf0026625a0e9db2",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

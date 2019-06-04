@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "34.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "LabelText": "1st Floor, Tower 1, Amrita Towers, New Chennai Township - Multi Services SEZ, Marg.",
+        "contentAlignment": {
+            "Default": 1
+        },
+        "height1": {
+            "Default": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "height2": {
+            "Default": {
+                "type": "string",
+                "value": "120dp"
+            }
+        },
+        "skin1": "sf935195727c453d957d6a3c93af4a36",
+        "skin2": "s6d1b26e646445b49ec2cc7bb65c7fd4"
+    },
+    "enablescrolling": true,
+    "id": "HolderAddress",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "f0bc863c93b74430beeeacdefa0debc1",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPersonalDetails",
+    "pf": "frmAccountsSettings",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "c2212687548246e497c015cf74e8cb1c",
+    "wType": "UserWidgetInstance"
+}

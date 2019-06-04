@@ -1,0 +1,42 @@
+{
+    "AS_UWI_d380c269eae24f19a5151c92692c073e": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "HamburgerIn",
+                "id": "INVOKE_FUNCTION___fd205536b35641d4a3513bc9203a9c4b",
+                "inputparams": [
+                    {
+                        "name": "eventobject"
+                    },
+                    {
+                        "name": "x"
+                    },
+                    {
+                        "name": "y"
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "HamburgerIn",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
+            "name": "frmHelpandContact",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_d380c269eae24f19a5151c92692c073e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

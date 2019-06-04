@@ -1,0 +1,32 @@
+{
+    "AS_Form_aab501e21cbe4480be14993f50db04b3": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "SegmentImages",
+                "id": "INVOKE_FUNCTION___bf06edaddd8e451d8e87173957f56f40",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "SegmentImages",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "name": "frmDashBoard",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_aab501e21cbe4480be14993f50db04b3",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

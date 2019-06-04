@@ -1,0 +1,220 @@
+{
+    "classname": "Hamburger",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g738e890b35c4b5f8e65e33129f67593",
+                    "originalPropertyKey": "VisibleBank",
+                    "propertyIndex": 1,
+                    "propertyKey": "VisibleBank",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "srcWidget": "Home",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "ief25b6c2d0b46c4a1d4b5a91731330c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e3003f32bd524bd9964964f46bd2f0fe",
+                    "originalPropertyKey": "OptionText",
+                    "propertyIndex": 2,
+                    "propertyKey": "text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "Home",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "ief25b6c2d0b46c4a1d4b5a91731330c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "f7645162902240e9850f08e710637804",
+                    "originalPropertyKey": "Visibleflex",
+                    "propertyIndex": 3,
+                    "propertyKey": "CreditVisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "isVisible1",
+                        "srcWidget": "Credit",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "e149c6bdc8374759a6375ea088475547"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "bfef97b3cd154bc7b85f82110cacd2b2",
+                    "originalPropertyKey": "Visibleflex",
+                    "propertyIndex": 4,
+                    "propertyKey": "DebitVisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "isVisible1",
+                        "srcWidget": "Debit",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "ef08599de9364236b8e6d40f0e29af7e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c887e141cc1e43839c0987e724eb7622",
+                    "originalPropertyKey": "Visibleflex",
+                    "propertyIndex": 5,
+                    "propertyKey": "LoanVisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "isVisible1",
+                        "srcWidget": "Loan",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "fecd23075b49490a9f575b2aff819ae6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b495b8d3b6e34d07ad09732cbe19643a",
+                    "originalPropertyKey": "Visibleflex",
+                    "propertyIndex": 6,
+                    "propertyKey": "BlockCardVisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "isVisible1",
+                        "srcWidget": "BlockCard",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "a8477c78003543a29c88e07014e17b56"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "daf2bd3305854aeab4d5672c9fe01e75",
+                    "originalPropertyKey": "srcarrow",
+                    "propertyIndex": 7,
+                    "propertyKey": "srcarrow",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "src1",
+                        "srcWidget": "Apply",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "UserWidgetInstance"
+                    },
+                    "srcWgtKUID": "hb9e4a747886420da4e1708696e808a4"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "c2697487db2e4eaf9c68b522f5d45956",
+                    "propertyKey": "imgBankLogo",
+                    "srcWgtKUID": "f43d928afc62458da82f57d2ad8e87bf"
+                },
+                {
+                    "kuid": "cb42b56f71304f8da16a143c1154e9cd",
+                    "originalPropertyKey": "lblBankOptions",
+                    "propertyKey": "lblBankOptions",
+                    "srcWgtKUID": "ief25b6c2d0b46c4a1d4b5a91731330c"
+                },
+                {
+                    "kuid": "hbb1af134684407c8157061c97cbbe86",
+                    "originalPropertyKey": "imgIcon",
+                    "propertyKey": "imgIcon",
+                    "srcWgtKUID": "ief25b6c2d0b46c4a1d4b5a91731330c"
+                },
+                {
+                    "kuid": "i3c900850fc4450e8241770f382a5fdd",
+                    "originalPropertyKey": "ImgArrow",
+                    "propertyKey": "ImgArrow",
+                    "srcWgtKUID": "ief25b6c2d0b46c4a1d4b5a91731330c"
+                },
+                {
+                    "kuid": "cac6acd6afaf4d669c71a77c60e58cd7",
+                    "originalPropertyKey": "flxDashBoard",
+                    "propertyKey": "flxDashBoardCredit",
+                    "srcWgtKUID": "e149c6bdc8374759a6375ea088475547"
+                },
+                {
+                    "kuid": "cc317c2e01544004815d1600faada774",
+                    "originalPropertyKey": "flxDashBoard",
+                    "propertyKey": "flxDashBoardDebit",
+                    "srcWgtKUID": "ef08599de9364236b8e6d40f0e29af7e"
+                },
+                {
+                    "kuid": "b21f423967d24f51917380df124e3b30",
+                    "originalPropertyKey": "flxDashBoard",
+                    "propertyKey": "flxDashBoardLoan",
+                    "srcWgtKUID": "fecd23075b49490a9f575b2aff819ae6"
+                },
+                {
+                    "kuid": "f24346eac8f04989a1cc30758b198fa5",
+                    "originalPropertyKey": "flxDashBoard",
+                    "propertyKey": "flxDashBoardBlockCard",
+                    "srcWgtKUID": "a8477c78003543a29c88e07014e17b56"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "Hamburger",
+    "version": "1.0.0"
+}

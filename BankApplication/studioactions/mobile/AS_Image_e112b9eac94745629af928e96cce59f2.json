@@ -1,0 +1,43 @@
+{
+    "AS_Image_e112b9eac94745629af928e96cce59f2": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "HamburgerIn",
+                "id": "INVOKE_FUNCTION__ide_onTouchStart_bde684600a5d4db5b900fbd7171a4531",
+                "inputparams": [
+                    {
+                        "name": "eventobject"
+                    },
+                    {
+                        "name": "x"
+                    },
+                    {
+                        "name": "y"
+                    }
+                ],
+                "sequenceKUID": "HamburgerIn",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_Image_e112b9eac94745629af928e96cce59f2",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "x"
+            },
+            {
+                "datatype": "string",
+                "name": "y"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}
