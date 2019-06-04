@@ -1,0 +1,20 @@
+{
+    "AS_Form_fb22822592074e54a1eccb8f9881b74e": {
+        "actions": [],
+        "contextObj": {
+            "KUID": "b1baade181314b52957d7d4da8f7675d",
+            "name": "frmFundTransfer",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_fb22822592074e54a1eccb8f9881b74e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

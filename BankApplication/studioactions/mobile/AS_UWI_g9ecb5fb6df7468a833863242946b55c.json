@@ -1,0 +1,24 @@
+{
+    "AS_UWI_g9ecb5fb6df7468a833863242946b55c": {
+        "actions": [],
+        "contextObj": {
+            "KUID": "e7626f38349c4981ba26ec8a67b7a7d9",
+            "name": "frmOtp",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_g9ecb5fb6df7468a833863242946b55c",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

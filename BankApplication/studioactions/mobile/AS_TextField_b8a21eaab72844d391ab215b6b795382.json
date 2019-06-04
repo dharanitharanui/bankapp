@@ -1,0 +1,41 @@
+{
+    "AS_TextField_b8a21eaab72844d391ab215b6b795382": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "focus",
+                "id": "INVOKE_FUNCTION___f20f026dfee04a9692604a8b8e11e027",
+                "inputparams": [
+                    {
+                        "name": "textfocus",
+                        "value": " eventobject"
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "focus",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "e7626f38349c4981ba26ec8a67b7a7d9",
+            "name": "frmOtp",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_b8a21eaab72844d391ab215b6b795382",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

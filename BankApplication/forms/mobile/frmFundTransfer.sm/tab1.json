@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "ide_tabonClick": "AS_UWI_e002eba031d943498c08e2cf5d086af4",
+        "isVisible1": false,
+        "tabsrc": "bank_upcoming_grey.png",
+        "tabvisible": false,
+        "text": "Upcoming"
+    },
+    "enablescrolling": true,
+    "id": "tab1",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "d228e7510c5f452ab729eab02d9ea7bf",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxTab",
+    "pf": "frmFundTransfer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "d5fc18af21d9455b84ed1ff3b66726b3",
+    "wType": "UserWidgetInstance"
+}

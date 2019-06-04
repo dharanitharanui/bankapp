@@ -1137,3 +1137,416 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:55.553
 !MESSAGE konyplugins.xml is copied to E:\Main-Demo\BankRepo\bankapp\BankApplication successfully.
+!SESSION 2019-06-04 11:35:15.053 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-06-04 11:35:34.616
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 0 2019-06-04 11:35:37.790
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-06-04 11:35:37.790
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.cleanAndBuildCommand'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-06-04 11:35:37.790
+!MESSAGE Cannot bind to an undefined command: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.applicationpublish'
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-06-04 11:35:38.530
+!MESSAGE Time taken for loading Studio plugin: 628
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-06-04 11:35:40.908
+!MESSAGE Time taken for loading node plugins: 2378
+
+!ENTRY org.eclipse.ui 4 4 2019-06-04 11:35:47.023
+!MESSAGE Conflicting handlers for com.pat.tool.keditor.command.appviewer: {com.kony.studio.menus.handlers.HelpEventHandler} vs {com.kony.studio.menus.handlers.HelpEventHandler}
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-04 11:36:04.474
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-04 11:36:04.474
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ETmarg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:05.420
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:05.999
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.015
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.015
+!MESSAGE Both are same.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.030
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.046
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.052
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.052
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.052
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.068
+!MESSAGE Unable to find defaultemumetadata.json file from F:/BankRepo/bankapp\_ios\defaultemulator\defaultemumetadata.json location.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.084
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.084
+!MESSAGE Eclipse opened time: Jun 04, 2019 11:36 AM
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.115
+!MESSAGE blackberry_50 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.130
+!MESSAGE blackberry_60 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.130
+!MESSAGE blackberry_70 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.130
+!MESSAGE windows_phone key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:36:06.146
+!MESSAGE enableMetrics key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.153
+!MESSAGE PLUGIN DETAILS: com.kony.windows:8.4.5.v201903071208::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.153
+!MESSAGE PLUGIN DETAILS: com.pat.j2me:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.153
+!MESSAGE PLUGIN DETAILS: com.kony.bb10:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.168
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.168
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.5.v201903072245::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.168
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.5.v201903072245::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.184
+!MESSAGE PLUGIN DETAILS: com.kony.windows8:8.4.5.v201903072251::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.184
+!MESSAGE PLUGIN DETAILS: com.kony.windows10:8.4.5.v201903072237::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.184
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile6x:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.200
+!MESSAGE PLUGIN DETAILS: com.pat.android:8.4.5.v201903072050::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.200
+!MESSAGE PLUGIN DETAILS: com.pat.tabrcandroid:8.4.5.v201903072050::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.200
+!MESSAGE PLUGIN DETAILS: com.kony.nativecodegen:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.215
+!MESSAGE PLUGIN DETAILS: com.kony.spa:8.4.5.v201903072255::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.215
+!MESSAGE PLUGIN DETAILS: com.kony.desktopweb:8.4.5.v201903072302::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.231
+!MESSAGE PLUGIN DETAILS: com.kony.webcommons:8.4.0.201901111707::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.231
+!MESSAGE PLUGIN DETAILS: com.kony.ios:8.4.5.v201903072218::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.246
+!MESSAGE USER LOCATION: file:/C:/Users/ETmarg/user/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.246
+!MESSAGE IDE BUNDLE LOCATION: /F:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/47/1/.cp/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.284
+!MESSAGE 'com.kony.help' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.284
+!MESSAGE 'com.kony.nativecodegen' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.347
+!MESSAGE 'com.kony.cloudtc' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.369
+!MESSAGE 'com.kony.studio.sky' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.384
+!MESSAGE 'com.kony.studio.viz.chrome.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.400
+!MESSAGE 'com.kony.studio.viz.core.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.400
+!MESSAGE 'com.kony.studio.viz.nodejs.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.431
+!MESSAGE 'com.pat.j2me' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.431
+!MESSAGE 'com.kony.bb10' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.431
+!MESSAGE 'com.pat.winmobile' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.453
+!MESSAGE 'com.pat.winmobile6x' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.453
+!MESSAGE 'com.pat.brew' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.469
+!MESSAGE 'com.pat.palm' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.485
+!MESSAGE 'com.pat.playbook' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.485
+!MESSAGE 'com.pat.qt' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.500
+!MESSAGE 'com.pat.andcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.500
+!MESSAGE 'com.pat.bbcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.500
+!MESSAGE 'com.pat.iospolicyinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.532
+!MESSAGE 'tk.eclipse.plugin.htmleditor' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.532
+!MESSAGE 'com.kony.video' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:06.554
+!MESSAGE Plugin Details are stored successfully at F:\BankRepo\bankapp\konyplugins.xml.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:10.802
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:21.743
+!MESSAGE Node server shut down successfull.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:21.743
+!MESSAGE workspace location: F:\BankRepo\bankapp
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:23.844
+!MESSAGE Node location: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\nw\nw_win\node.exe
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:23.844
+!MESSAGE Node start location: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\nw\node_start.bat
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:23.854
+!MESSAGE Starting node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:23.854
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.348
+!MESSAGE Executing node startup command: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\nw\nw_win\node.exe app.js console F:\BankRepo\bankapp C:\Users\ETmarg\Kony Visualizer F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\nw\nw_win\node.exe --NODE_APP_INSTANCE=vide --NODE_CONFIG={\"transfer\":{\"codeanalysis\":{\"serverport\":5230}},\"codeanalysis\":{\"serverport\":5230},\"autonomousBot\":{\"serverport\":4210,\"enableIQRecommendations\":null},\"expressServerPort\":5000,\"functionalPreviewPort\":8888,\"monitorAssets\":true,\"vizClientConfig\":{\"enableModelDriven\":false,\"monitorAssets\":true,\"enableCordovaDevelopment\":true,\"autonomousIQServerPort\":4210,\"enableAppGroups\":true,\"isHeadlessBuild\":false,\"enableToolTips\":true,\"enableIQRecommendations\":null,\"isVizSigned\":true,\"enableNativeApi\":true,\"enableAppWizards\":true,\"enableOrientation\":true,\"enableMarketplace\":true,\"enableMVCExtensions\":false,\"enableIQChat\":null},\"isHeadlessBuild\":false,\"addonServerPort\":9095,\"isVizSigned\":true} 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.395
+!MESSAGE Time for node to execute : 47msec
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.395
+!MESSAGE ***Started watch for node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.868
+!MESSAGE [node console]Loading[config]..F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.883
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:45.883
+!MESSAGE [node console]Proxy details not found. Setting useProxy to false.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:55.956
+!MESSAGE [node console]GitDir: C:\Users\ETmarg\Kony Visualizer\vizdata\.konyvizgit
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.363
+!MESSAGE [node console]Viz running in EMBEDDED mode
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.363
+!MESSAGE [node console][36m[2019-06-04 11:36:57.354] [DEBUG] vide - [39mIn pullWelcomeScreen ...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.363
+!MESSAGE [node console][36m[2019-06-04 11:36:57.360] [DEBUG] vide - [39mDownload welcome screen: http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.378
+!MESSAGE [node console][36m[2019-06-04 11:36:57.368] [DEBUG] vide - [39mRequesting File from http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.385
+!MESSAGE [node console][36m[2019-06-04 11:36:57.375] [DEBUG] vide - [39mDevice detection :: Spawning child process : F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\nw\nw_win\node.exe F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\lib\usbDeviceDetection\deviceDetection.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.401
+!MESSAGE [node console][32m[2019-06-04 11:36:57.398] [INFO] vide - [39mWeb App .webapps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.463
+!MESSAGE [node console][36m[2019-06-04 11:36:57.454] [DEBUG] vide - [39mEventEmitted: proxyServiceStart200[not in use]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.463
+!MESSAGE [node console][36m[2019-06-04 11:36:57.454] [DEBUG] vide - [39mEventEmitted: authServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.479
+!MESSAGE [node console][32m[2019-06-04 11:36:57.455] [INFO] vide - [39mRequest consumer Id
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.485
+!MESSAGE [node console][32m[2019-06-04 11:36:57.479] [INFO] vide - [39mResource Service started on port 5095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.501
+!MESSAGE [node console][36m[2019-06-04 11:36:57.479] [DEBUG] vide - [39mEventEmitted: resourceServiceStart200[5095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.501
+!MESSAGE [node console][32m[2019-06-04 11:36:57.479] [INFO] vide - [39mFunctional Preview Server started on port 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.501
+!MESSAGE [node console][36m[2019-06-04 11:36:57.479] [DEBUG] vide - [39mEventEmitted: functionalPreviewStart200[8888]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.516
+!MESSAGE [node console][32m[2019-06-04 11:36:57.479] [INFO] vide - [39mNotifier Service started on port 5099
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.516
+!MESSAGE [node console][36m[2019-06-04 11:36:57.479] [DEBUG] vide - [39mEventEmitted: kvNotifierStart200[5099]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.532
+!MESSAGE [node console][36m[2019-06-04 11:36:57.480] [DEBUG] vide - [39mAddon server listening on port 9095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:57.532
+!MESSAGE [node console][36m[2019-06-04 11:36:57.480] [DEBUG] vide - [39mAddon server is up!!
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:58.859
+!MESSAGE [node console]Loading[config]..F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\33\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:58.875
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:58.913
+!MESSAGE [node console][32m[2019-06-04 11:36:58.913] [INFO] ~~~~ - [39mUSB Detection :: Device monitoring started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:59.617
+!MESSAGE [node console][36m[2019-06-04 11:36:59.606] [DEBUG] vide - [39mIn KONYIQ start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:59.622
+!MESSAGE [node console][36m[2019-06-04 11:36:59.609] [DEBUG] vide - [39mKony IQ i18n server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:59.637
+!MESSAGE [node console][36m[2019-06-04 11:36:59.610] [DEBUG] vide - [39mEventEmitted: kvAddonStart200[9095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:59.653
+!MESSAGE [node console]Hike engine server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:36:59.669
+!MESSAGE [node console]Default tours are copied to C:\Users\ETmarg\Kony IQ\iq_addons_cache\hikeengine\8.4\guidedtours
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.149
+!MESSAGE [node console][31m[2019-06-04 11:37:00.138] [ERROR] vide - [39mError downloading welcome screen:  Can't download zip file. Response code: 404
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.149
+!MESSAGE [node console][31m[2019-06-04 11:37:00.141] [ERROR] vide - [39mDownload Failed. Response: <html>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.164
+!MESSAGE [node console]<head>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.180
+!MESSAGE [node console]<meta http-equiv="refresh" content="0;url=http://kony.com/error.html">
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.196
+!MESSAGE [node console]</head>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.196
+!MESSAGE [node console]</body>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.334
+!MESSAGE Node Server state :true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.450
+!MESSAGE [node error](node:11016) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.512
+!MESSAGE javaLibPath->F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/bin/server;F:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/bin;F:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Users\ETmarg\AppData\Local\Microsoft\WindowsApps;;F:\KonyVisualizerEnterprise8.4.5.0\Ant\bin;F:\Android\android-sdk\platform-tools;F:\Android\android-sdk\tools;F:\KonyVisualizerEnterprise8.4.5.0\Java\jdk\bin;F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise;;.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.512
+!MESSAGE DYLD_LIBRARY_PATH(Only in Mac)->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.528
+!MESSAGE JAVACEF_PATH->F:\KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.534
+!MESSAGE Invoking windows configure libs
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.645
+!MESSAGE Chrome lib location->F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\32\1\.cp\win64_build\third_party\chromium_loader
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.655
+!MESSAGE CEF lib location->F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\32\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.657
+!MESSAGE java.library.path->F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\32\1\.cp\win64_build\third_party\chromium_loader;F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\32\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.667
+!MESSAGE fieldSysPath->private static java.lang.String[] java.lang.ClassLoader.sys_paths
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.677
+!MESSAGE java.library.path configured
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:00.687
+!MESSAGE Invoking chromebrowser.embed()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:03.046
+!MESSAGE Invoking vide init()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:03.046
+!MESSAGE Invoking vide initiated
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:09.652
+!MESSAGE Found installation dir: F:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:49.886
+!MESSAGE [node error]No Instance(s) Available.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:49.892
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:37:50.086
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:38:00.035
+!MESSAGE konyplugins.xml is copied to F:\BankRepo\bankapp\BankApplication successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:38:58.809
+!MESSAGE GET_FILE_DIALOG-> {"SERVICE_NAME":"FILE_DIALOG","MSG_ID":20,"MSG_TYPE":"REQUEST","DATA":{"dialogType":"OPENFILE","acceptTypes":".zip","multiple":false},"CURRENT_PROJECT_NAME":"BankApplication","CURRENT_PROJECT_CATEGORY":"app"}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:39:04.170
+!MESSAGE service str from IDE->{"path":"C:\\\\Users\\\\ETmarg\\\\Desktop\\\\BankApplicationExport.zip","name":"BankApplicationExport.zip"}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:39:14.519
+!MESSAGE GET_FILE_DIALOG-> {"SERVICE_NAME":"FILE_DIALOG","MSG_ID":23,"MSG_TYPE":"REQUEST","DATA":{"dialogType":"OPENFILE","acceptTypes":".zip","multiple":false},"CURRENT_PROJECT_NAME":"BankApplication","CURRENT_PROJECT_CATEGORY":"app"}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:39:25.278
+!MESSAGE service str from IDE->{"path":"C:\\\\Users\\\\ETmarg\\\\Desktop\\\\BankApplication.zip","name":"BankApplication.zip"}

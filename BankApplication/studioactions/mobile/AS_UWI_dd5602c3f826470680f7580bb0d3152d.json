@@ -1,0 +1,32 @@
+{
+    "AS_UWI_dd5602c3f826470680f7580bb0d3152d": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "verify",
+                "id": "INVOKE_FUNCTION___g13cdc149acf45b59674f20b60a89ac7",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "verify",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "e7626f38349c4981ba26ec8a67b7a7d9",
+            "name": "frmOtp",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_dd5602c3f826470680f7580bb0d3152d",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

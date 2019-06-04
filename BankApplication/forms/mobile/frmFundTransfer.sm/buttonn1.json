@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "height1": {
+            "Default": {
+                "type": "string",
+                "value": "55dp"
+            }
+        },
+        "ide_onclick": "AS_UWI_a6e0ca10e8484bd69e478ecf5c8cb8f2",
+        "skin1": "se6201f371cb418bbdc67f88e58cf7de",
+        "text": "Delete Payee",
+        "width1": {
+            "Default": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "buttonn1",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "e25ffe733ba84af18306e0592120b9a1",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxBtm",
+    "pf": "frmFundTransfer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "dfa13f6bbde84a698db17b0e0e5a1cea",
+    "wType": "UserWidgetInstance"
+}

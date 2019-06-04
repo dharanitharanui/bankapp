@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "34%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "ide_tabonClick": "AS_UWI_a503c24e837c4932b814c27bbd7e90e5",
+        "tabskin": "sa4181971eb642b9b652185efe527a11",
+        "tabsrc": "bank_recent_blue.png",
+        "tabvisible": true,
+        "text": "Recent"
+    },
+    "enablescrolling": true,
+    "id": "tab",
+    "info": null,
+    "iscustomlayout": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "j9cd932da93e4b349eaddfb3de333ff8",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxTab",
+    "pf": "frmFundTransfer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "d5fc18af21d9455b84ed1ff3b66726b3",
+    "wType": "UserWidgetInstance"
+}

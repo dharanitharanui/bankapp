@@ -1,0 +1,41 @@
+{
+    "AS_UWI_f9e5e33493ac48ca8a72e39f74a5f82a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "focuschange",
+                "id": "INVOKE_FUNCTION___e278d999d86d427492b41c23a474c448",
+                "inputparams": [
+                    {
+                        "name": "a",
+                        "value": " eventobject"
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "focuschange",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "e7626f38349c4981ba26ec8a67b7a7d9",
+            "name": "frmOtp",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_f9e5e33493ac48ca8a72e39f74a5f82a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

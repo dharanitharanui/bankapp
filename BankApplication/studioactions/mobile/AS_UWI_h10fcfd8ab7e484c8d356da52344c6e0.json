@@ -1,0 +1,20 @@
+{
+    "AS_UWI_h10fcfd8ab7e484c8d356da52344c6e0": {
+        "actions": [],
+        "contextObj": {
+            "KUID": "bf193f91a1ce4147a36d998fbcfd86f4",
+            "name": "frmAddAccountDetails",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_h10fcfd8ab7e484c8d356da52344c6e0",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "BtnPay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "₹30,000"
+            },
+            "lblIntial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "S"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Santhosh"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "21 Apr 2019"
+            },
+            "lblTransId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01234567891012"
+            }
+        },
+        {
+            "BtnPay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "₹30"
+            },
+            "lblIntial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "S"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Santhosh"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "21 Apr 2019"
+            },
+            "lblTransId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01234567891012"
+            }
+        },
+        {
+            "BtnPay": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAmmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "₹500"
+            },
+            "lblIntial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "S"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Santhosh"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "21 Apr 2019"
+            },
+            "lblTransId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "01234567891012"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dd906ba54443452da078f22cc9204c00",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSeg",
+    "pf": "frmFundTransfer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "eeab234b4ccd47b6b40deb32d9a66133",
+    "rowcounter": 2,
+    "rowfocusskin": "sd833f44750d461a84771fda1abe980a",
+    "rowskin": "sb2b0b3266fa4b54bffb5dbdc9a6c4b0",
+    "rowtemplate": "flxPayment",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sf37216f96b746aaa7516a1c5fcac4a7",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "BtnPay": "BtnPay",
+        "btnDelete": "btnDelete",
+        "flxLine": "flxLine",
+        "flxPayment": "flxPayment",
+        "flxRound": "flxRound",
+        "lblAmmount": "lblAmmount",
+        "lblIntial": "lblIntial",
+        "lblName": "lblName",
+        "lblTime": "lblTime",
+        "lblTransId": "lblTransId"
+    },
+    "zindex": 1
+}

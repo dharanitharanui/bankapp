@@ -1,0 +1,33 @@
+{
+    "AS_UWI_h57efb2cae1a45a39b48551a17677a15": {
+        "actions": [
+            {
+                "callbackType": null,
+                "enableMappingEditor": true,
+                "formId": "frmAddAccountDetails",
+                "formKUID": "bf193f91a1ce4147a36d998fbcfd86f4",
+                "id": "NAVIGATE_TO_FORM___f1585ff48d6947c7b07417c4f13d2ee0",
+                "mappings": {},
+                "mappingsOrder": [],
+                "package": "",
+                "parentId": "",
+                "type": "NAVIGATE_TO_FORM"
+            }
+        ],
+        "contextObj": {
+            "KUID": "b1baade181314b52957d7d4da8f7675d",
+            "name": "frmFundTransfer",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_h57efb2cae1a45a39b48551a17677a15",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

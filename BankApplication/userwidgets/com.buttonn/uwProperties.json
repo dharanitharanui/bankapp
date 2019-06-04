@@ -1,0 +1,243 @@
+{
+    "classname": "buttonn",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ib2a8d7458c44c0ca0e4eb6630f992fb",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onclick",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onclick",
+                        "srcWidget": "btn",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "d02a6bc5772146ab9767ea5672464e64",
+                    "originalPropertyKey": "width",
+                    "propertyIndex": 1,
+                    "propertyKey": "width1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Width",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "btn",
+                        "toolTip": "Widget width",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "j86676158c104009b5c408d2487ad843",
+                    "originalPropertyKey": "height",
+                    "propertyIndex": 2,
+                    "propertyKey": "height1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Height",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "btn",
+                        "toolTip": "Widget height",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "bd5b3681ba9644e38dfa6aee5de4552a",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 3,
+                    "propertyKey": "skin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "btn",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c1904306552a4c05ad77c1fe6dac64de",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 4,
+                    "propertyKey": "text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "btn",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "d248e6c77bf54dc4a4c8d2e8e6823fb5",
+                    "propertyKey": "btn",
+                    "srcWgtKUID": "eef6c66361e34a94a789744b4649c833"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "com",
+    "version": "1.0.0"
+}

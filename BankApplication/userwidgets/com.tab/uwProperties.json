@@ -1,0 +1,600 @@
+{
+    "classname": "tab",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g39d7efb6cd04db2a5b3a475143cf749",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "tabonClick",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "tabonClick",
+                        "srcWidget": "flxTab",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "e53bffc98fe34a5e931c9806f7b075e2"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ebf058bf8d58476f9e2537ac6643ab45",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "tabsrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "srcWidget": "imgTabImage",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "aba0a331b14b4760bb3424f25e319190"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ba202dfde8d7458aa044895e125e8818",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 2,
+                    "propertyKey": "tabskin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "lblTabName",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c26d8660a6d646649d297b0f0c208826",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 3,
+                    "propertyKey": "text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "lblTabName",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b50ed5d25fdf45eea3c652c394727d83",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 4,
+                    "propertyKey": "tabvisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "srcWidget": "lblLine",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ge1abe9b4bc242d0b93faa49efce57e2"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "i35b4cd981ba4dffb5f5b43dd102ca63",
+                    "originalPropertyKey": "width",
+                    "propertyIndex": 5,
+                    "propertyKey": "width1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Width",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "lblTabName",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g61eb7eeaa684ed0a6ec28ba9e1b3f64",
+                    "originalPropertyKey": "centerX",
+                    "propertyIndex": 6,
+                    "propertyKey": "centerX1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Center X",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "lblTabName",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "fea66539db9c4f08ad84c95ff0c2893f",
+                    "originalPropertyKey": "height",
+                    "propertyIndex": 7,
+                    "propertyKey": "height1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Height",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "imgTabImage",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "aba0a331b14b4760bb3424f25e319190"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g78882801d0f4d84bf8a7a62e7265cd4",
+                    "originalPropertyKey": "top",
+                    "propertyIndex": 8,
+                    "propertyKey": "top1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Top",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "lblTabName",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e0a621edc9e2433f80bbc2010c10739e",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 9,
+                    "propertyKey": "skin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "flxTab",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "e53bffc98fe34a5e931c9806f7b075e2"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ie2aaf42a53c489fa526e122210cb1e6",
+                    "originalPropertyKey": "top",
+                    "propertyIndex": 10,
+                    "propertyKey": "top2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Top",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "srcWidget": "imgTabImage",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "aba0a331b14b4760bb3424f25e319190"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e866ce12cf924f868bd83a9548572aba",
+                    "originalPropertyKey": "height",
+                    "propertyIndex": 11,
+                    "propertyKey": "height2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "displayName": "Height",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8",
+                                "spabb"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "e53bffc98fe34a5e931c9806f7b075e2"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "f60a90efa0784f6ab79ef56c463305d3",
+                    "propertyKey": "imgTabImage",
+                    "srcWgtKUID": "aba0a331b14b4760bb3424f25e319190"
+                },
+                {
+                    "kuid": "a81209f97d384e0ea0337f1350546755",
+                    "propertyKey": "lblTabName",
+                    "srcWgtKUID": "ea781fedba204df2a2988116b8f6045b"
+                },
+                {
+                    "kuid": "efdff8ab7f5044b782651e28d743b01a",
+                    "propertyKey": "lblLine",
+                    "srcWgtKUID": "ge1abe9b4bc242d0b93faa49efce57e2"
+                },
+                {
+                    "kuid": "a361fcb6a41f4568a1a5942cf351693a",
+                    "propertyKey": "flxTab",
+                    "srcWgtKUID": "e53bffc98fe34a5e931c9806f7b075e2"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "com",
+    "version": "1.0.0"
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_ff4e047e5a394c7699c97e2fa3c7d19e": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "",
+                "id": "ADD_SNIPPET__f729047708af4d498ceda3007c3d7f8f",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "b1baade181314b52957d7d4da8f7675d",
+            "name": "frmFundTransfer",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_ff4e047e5a394c7699c97e2fa3c7d19e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

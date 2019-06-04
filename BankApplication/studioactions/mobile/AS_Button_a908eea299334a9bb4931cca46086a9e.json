@@ -1,0 +1,32 @@
+{
+    "AS_Button_a908eea299334a9bb4931cca46086a9e": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "popupclose",
+                "id": "INVOKE_FUNCTION___a0722c9e805e462e9205893937b4bb6a",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "popupclose",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "b1baade181314b52957d7d4da8f7675d",
+            "name": "frmFundTransfer",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Button_a908eea299334a9bb4931cca46086a9e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

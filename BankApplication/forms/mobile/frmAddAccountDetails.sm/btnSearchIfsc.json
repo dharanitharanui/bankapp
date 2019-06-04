@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s2fe33e054a2467fbb94db65ad5c31ac",
+    "_text_": "Search for IFSC",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sf68a3a84e1c46df9a8e454ddf25c54a"
+    },
+    "displaytext": true,
+    "id": "btnSearchIfsc",
+    "ide_onClick": "AS_Button_cfef02daa4a44c249ed66e937475a92f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f923f0110be04072a83166621ef91f12",
+    "name": "kony.ui.Button",
+    "parent": "flxDiffrentBank",
+    "pf": "frmAddAccountDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 2
+}

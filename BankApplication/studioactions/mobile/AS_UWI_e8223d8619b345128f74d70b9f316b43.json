@@ -1,0 +1,32 @@
+{
+    "AS_UWI_e8223d8619b345128f74d70b9f316b43": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "resend",
+                "id": "INVOKE_FUNCTION___ac658587257346078c3c9b0c0b13b667",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "resend",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "e7626f38349c4981ba26ec8a67b7a7d9",
+            "name": "frmOtp",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_e8223d8619b345128f74d70b9f316b43",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

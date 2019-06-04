@@ -1,0 +1,32 @@
+{
+    "AS_UWI_c21f3d9121974519a91b36c42898a5cb": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "paydiffbank",
+                "id": "INVOKE_FUNCTION___eede1c3908d2451fbb7d19a0636e7baf",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "paydiffbank",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "b1baade181314b52957d7d4da8f7675d",
+            "name": "frmFundTransfer",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_UWI_c21f3d9121974519a91b36c42898a5cb",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

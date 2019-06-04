@@ -1,0 +1,32 @@
+{
+    "AS_Form_i5e1d0f176804c428d3e6a57a9329877": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "ifsc",
+                "id": "INVOKE_FUNCTION___d10abb62a6ab41e4870ce1ee46e70391",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "ifsc",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "i515f978f69f4b78aa06a8712c15ba6b",
+            "name": "frmIfsc",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_i5e1d0f176804c428d3e6a57a9329877",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}
