@@ -1,0 +1,53 @@
+{
+    "AS_Form_h2cdf76cd6664454a7d662074bc8d5db": {
+        "id": "AS_Form_h2cdf76cd6664454a7d662074bc8d5db",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f9cb04729c284e1f803077661fc8b1f1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxLoginCustomer.isVisible = true;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "MOVE_ACTION____a1e2ec714d1449efa1a16eec8ab44b44",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "widgetId": "flxLoginCustomer",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "afb8cb5c931d40c39815bb7802fc417c",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "60%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "700"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____a1e2ec714d1449efa1a16eec8ab44b44",
+            "displayAnimationId": "MOVE_ACTION____a1e2ec714d1449efa1a16eec8ab44b44",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxLoginCustomer"
+        }]
+    }
+}

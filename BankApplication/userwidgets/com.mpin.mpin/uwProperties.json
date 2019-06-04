@@ -1,0 +1,613 @@
+{
+    "classname": "mpin",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c47061bda8b04f0aa3a903c919c59ea6",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "mPin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin1",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "a91a080b6b1f4a298d8ac966ed6b78b6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b08ccebadce54abbaaa54c16fca8ac12",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "mPin2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin2",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "d508dc99f6d54ec9978db577e8790054"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ad570498beeb46a0b6030a3f28176467",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 3,
+                    "propertyKey": "mPin3",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin3",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "aca462d9668a44f3a52f4694165619fc"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b011dd20163b4f4bb8b6522069232af4",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 4,
+                    "propertyKey": "mPin4",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin4",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "c9fb4d91a9b5451cb40b5871d070b6d6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a5545bfb155944388a9e7664e0805696",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 5,
+                    "propertyKey": "mPin5",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin5",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "cefb5afd99f0470e81328a6521aefe9b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "je25363400a74638af96468625c425fd",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 6,
+                    "propertyKey": "mPin6",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtMpin6",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "de4ee59321274f72bd935de2c08fce49"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a3dd7f092ba34996b6f44f3120aa64cd",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 7,
+                    "propertyKey": "mCPin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin1",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "e9da1ad655964288a32a7c0abac83f79"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "jb3025008bc34c0a8fa7409a0994cdea",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 8,
+                    "propertyKey": "mCPin2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin2",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "b15f5c8f640e46bdb10f02ea09947581"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b53cc1dc1a94427bbf46891a32674956",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 9,
+                    "propertyKey": "mCPin3",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin3",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "dc486dfa91224f4ab1460d101b8d5cd0"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "h6d0a5f5918543a7a51173ffdadbb57c",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 10,
+                    "propertyKey": "mCPin4",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin4",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "b724b6b5f81140128069725e3d48d453"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "f1df5ea688494331a69e6febea28189f",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 11,
+                    "propertyKey": "mCPin5",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin5",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "c485d69cd5334c5bb26c1f7fa1525f1e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c918fbead1bf469ea106a16a171a27aa",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 12,
+                    "propertyKey": "mCPin6",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "txtCMpin6",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "f18983657fbc47d7a83e66fa741314cb"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b2f6071e74404050b14c84f94b68b73d",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 13,
+                    "propertyKey": "mask1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin1",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "a91a080b6b1f4a298d8ac966ed6b78b6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "cead879f77f64b4c95856bb56cfe5373",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 14,
+                    "propertyKey": "mask2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin2",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "d508dc99f6d54ec9978db577e8790054"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c3f7fcf7a5904aaeb3d66b6584a15ae7",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 15,
+                    "propertyKey": "mask3",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin3",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "aca462d9668a44f3a52f4694165619fc"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b7ef10c963ba49b599716de7dc2ee62c",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 16,
+                    "propertyKey": "mask4",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin4",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "c9fb4d91a9b5451cb40b5871d070b6d6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ceb24a556e3143a0964748bf5c935b6b",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 17,
+                    "propertyKey": "mask5",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin5",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "cefb5afd99f0470e81328a6521aefe9b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a734b15d46944d3db589b3a4565c1aa4",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 18,
+                    "propertyKey": "mask6",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtMpin6",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "de4ee59321274f72bd935de2c08fce49"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "cb0cdd93739c4ef98ccb9736f69ec9ff",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 19,
+                    "propertyKey": "cmask1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin1",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "e9da1ad655964288a32a7c0abac83f79"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "h17ebed3d4fa472881a564a7381a437f",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 20,
+                    "propertyKey": "cmask2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin2",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "b15f5c8f640e46bdb10f02ea09947581"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c72ca477b1314ffa9e7757b87f294952",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 21,
+                    "propertyKey": "cmask3",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin3",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "dc486dfa91224f4ab1460d101b8d5cd0"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e20f8f702b0645a491e856080add70a8",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 22,
+                    "propertyKey": "cmask4",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin4",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "b724b6b5f81140128069725e3d48d453"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "gbd684647e3546a7aa0cad1c1401363f",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 23,
+                    "propertyKey": "cmask5",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin5",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "c485d69cd5334c5bb26c1f7fa1525f1e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "gc74dcb74ca147ae8fb9e38b21245a1a",
+                    "originalPropertyKey": "secureTextEntry",
+                    "propertyIndex": 24,
+                    "propertyKey": "cmask6",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Mask Text",
+                        "srcWidget": "txtCMpin6",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "TextField"
+                    },
+                    "srcWgtKUID": "f18983657fbc47d7a83e66fa741314cb"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "d455c508114348b9b2e823ccb9a518ff",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 25,
+                    "propertyKey": "srcCMpin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "srcWidget": "imgMPinC",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "b052860683524d0c80e8c8d51f9563b8"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "cf3ec3b2072e4d2788c3111dfe6de6ae",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 26,
+                    "propertyKey": "srcMpin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Source",
+                        "srcWidget": "imgMPin",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "e1bc67f3b5cd42b9a0da36cd4bbcf44a"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "h49a3ebd631443298085e3c10d1d44ac",
+                    "propertyKey": "txtMpin1",
+                    "srcWgtKUID": "a91a080b6b1f4a298d8ac966ed6b78b6"
+                },
+                {
+                    "kuid": "e48fc0dec91841689b743e807eaa729d",
+                    "propertyKey": "txtMpin2",
+                    "srcWgtKUID": "d508dc99f6d54ec9978db577e8790054"
+                },
+                {
+                    "kuid": "c237eb53631649d68f064ca4b769415c",
+                    "propertyKey": "txtMpin3",
+                    "srcWgtKUID": "aca462d9668a44f3a52f4694165619fc"
+                },
+                {
+                    "kuid": "c0c39e9c4778408ea6c49c6e7afb044c",
+                    "propertyKey": "txtMpin4",
+                    "srcWgtKUID": "c9fb4d91a9b5451cb40b5871d070b6d6"
+                },
+                {
+                    "kuid": "e15b522877e6417eb58a94add5bc9dd1",
+                    "propertyKey": "txtMpin5",
+                    "srcWgtKUID": "cefb5afd99f0470e81328a6521aefe9b"
+                },
+                {
+                    "kuid": "e21ae872fb0b4577b5763156c0e0f3ad",
+                    "propertyKey": "txtMpin6",
+                    "srcWgtKUID": "de4ee59321274f72bd935de2c08fce49"
+                },
+                {
+                    "kuid": "fb0f872ff43f4f1088a48abce2df054e",
+                    "propertyKey": "txtCMpin1",
+                    "srcWgtKUID": "e9da1ad655964288a32a7c0abac83f79"
+                },
+                {
+                    "kuid": "h6a03016261a4f0cbd57725d3c734d3d",
+                    "propertyKey": "txtCMpin2",
+                    "srcWgtKUID": "b15f5c8f640e46bdb10f02ea09947581"
+                },
+                {
+                    "kuid": "c657d731d9c34a84ba3c1608001c4d7e",
+                    "propertyKey": "txtCMpin3",
+                    "srcWgtKUID": "dc486dfa91224f4ab1460d101b8d5cd0"
+                },
+                {
+                    "kuid": "ae23dd98a20e4111a1329622fa36adfd",
+                    "propertyKey": "txtCMpin4",
+                    "srcWgtKUID": "b724b6b5f81140128069725e3d48d453"
+                },
+                {
+                    "kuid": "ec72e6d672f34e729efeb698e235a1ad",
+                    "propertyKey": "txtCMpin5",
+                    "srcWgtKUID": "c485d69cd5334c5bb26c1f7fa1525f1e"
+                },
+                {
+                    "kuid": "c0e3ea0efa5745b0bc8e1f714ee836c7",
+                    "propertyKey": "txtCMpin6",
+                    "srcWgtKUID": "f18983657fbc47d7a83e66fa741314cb"
+                },
+                {
+                    "kuid": "e15145508e8d4c8eacdbd4e550be9491",
+                    "propertyKey": "imgMPin",
+                    "srcWgtKUID": "e1bc67f3b5cd42b9a0da36cd4bbcf44a"
+                },
+                {
+                    "kuid": "i73dad536ce041228d01ccb2a4245c26",
+                    "propertyKey": "imgMPinC",
+                    "srcWgtKUID": "b052860683524d0c80e8c8d51f9563b8"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.mpin",
+    "version": "1.0.0"
+}

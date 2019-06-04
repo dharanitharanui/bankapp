@@ -1,0 +1,105 @@
+{
+    "AS_Button_bf9e6a5d4a974d08a36aaf2fed739733": {
+        "id": "AS_Button_bf9e6a5d4a974d08a36aaf2fed739733",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ea0d560a2a5d43a1a74d01c7e73a447f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxAdminCustomer.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "____d8fcd966f8b74932817576263d7baa88",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "f7a53f4da9f0479d932574eac7db2a42",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "150%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "400"
+            },
+            "start": "Immediately",
+            "animationId": "____d8fcd966f8b74932817576263d7baa88",
+            "displayAnimationId": "MOVE_ACTION____d30287db35d04a19811b5892fcad9cd4",
+            "forkedPlatform": "all",
+            "parentId": null
+        }, {
+            "id": "MOVE_ACTION____g5b93ff250524457ba2ef5d43ed49754",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "widgetId": "flxLoginCustomer",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "afb8cb5c931d40c39815bb7802fc417c",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "-150%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "400"
+            },
+            "start": "Immediately",
+            "parentAnimation": "____d8fcd966f8b74932817576263d7baa88",
+            "animationId": "MOVE_ACTION____g5b93ff250524457ba2ef5d43ed49754",
+            "displayAnimationId": "MOVE_ACTION____g5b93ff250524457ba2ef5d43ed49754",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxLoginCustomer"
+        }, {
+            "id": "MOVE_ACTION____f6d7adc95c684919bafa8f9a123ad42f",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "if3bbebff6cb4064b0a2ca8c1f2e2041",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "60%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "400"
+            },
+            "start": "Immediately",
+            "parentAnimation": "____d8fcd966f8b74932817576263d7baa88",
+            "animationId": "MOVE_ACTION____f6d7adc95c684919bafa8f9a123ad42f",
+            "displayAnimationId": "MOVE_ACTION____f6d7adc95c684919bafa8f9a123ad42f",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

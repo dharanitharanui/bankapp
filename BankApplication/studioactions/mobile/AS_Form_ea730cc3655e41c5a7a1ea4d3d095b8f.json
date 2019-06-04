@@ -1,0 +1,18 @@
+{
+    "AS_Form_ea730cc3655e41c5a7a1ea4d3d095b8f": {
+        "id": "AS_Form_ea730cc3655e41c5a7a1ea4d3d095b8f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

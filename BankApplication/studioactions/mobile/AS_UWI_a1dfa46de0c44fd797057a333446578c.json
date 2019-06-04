@@ -1,0 +1,28 @@
+{
+    "AS_UWI_a1dfa46de0c44fd797057a333446578c": {
+        "id": "AS_UWI_a1dfa46de0c44fd797057a333446578c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b6dbd41cb6c644c6aac05962ccf6907c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createMpin",
+            "display": "createMpin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

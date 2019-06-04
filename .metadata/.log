@@ -1,0 +1,1139 @@
+!SESSION 2019-06-04 11:24:20.629 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+
+!ENTRY org.eclipse.ui 2 0 2019-06-04 11:24:57.968
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-06-04 11:24:57.968
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.cleanAndBuildCommand'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-06-04 11:24:57.968
+!MESSAGE Cannot bind to an undefined command: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.applicationpublish'
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-06-04 11:24:58.486
+!MESSAGE Time taken for loading Studio plugin: 460
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-06-04 11:25:00.373
+!MESSAGE Time taken for loading node plugins: 1883
+
+!ENTRY org.eclipse.ui 4 4 2019-06-04 11:25:00.959
+!MESSAGE Conflicting handlers for com.pat.tool.keditor.command.appviewer: {com.kony.studio.menus.handlers.HelpEventHandler} vs {com.kony.studio.menus.handlers.HelpEventHandler}
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-06-04 11:25:05.115
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ETmarg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:05.583
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.053
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.057
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.061
+!MESSAGE Both are same.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.064
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.072
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.080
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.084
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.087
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.106
+!MESSAGE Unable to find defaultemumetadata.json file from E:/Main-Demo/BankRepo/bankapp\_ios\defaultemulator\defaultemumetadata.json location.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.110
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.119
+!MESSAGE Eclipse opened time: Jun 04, 2019 11:25 AM
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.145
+!MESSAGE blackberry_50 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.149
+!MESSAGE blackberry_60 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.153
+!MESSAGE blackberry_70 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.157
+!MESSAGE windows_phone key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-06-04 11:25:06.161
+!MESSAGE enableMetrics key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.173
+!MESSAGE PLUGIN DETAILS: com.kony.windows:8.4.5.v201903071208::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.177
+!MESSAGE PLUGIN DETAILS: com.pat.j2me:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.181
+!MESSAGE PLUGIN DETAILS: com.kony.bb10:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.184
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.188
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.5.v201903072245::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.191
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.5.v201903072245::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.195
+!MESSAGE PLUGIN DETAILS: com.kony.windows8:8.4.5.v201903072251::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.199
+!MESSAGE PLUGIN DETAILS: com.kony.windows10:8.4.5.v201903072237::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.203
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile6x:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.207
+!MESSAGE PLUGIN DETAILS: com.pat.android:8.4.5.v201903072050::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.211
+!MESSAGE PLUGIN DETAILS: com.pat.tabrcandroid:8.4.5.v201903072050::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.215
+!MESSAGE PLUGIN DETAILS: com.kony.nativecodegen:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.220
+!MESSAGE PLUGIN DETAILS: com.kony.spa:8.4.5.v201903072255::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.225
+!MESSAGE PLUGIN DETAILS: com.kony.desktopweb:8.4.5.v201903072302::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.248
+!MESSAGE PLUGIN DETAILS: com.kony.webcommons:8.4.0.201901111707::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.252
+!MESSAGE PLUGIN DETAILS: com.kony.ios:8.4.5.v201903072218::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.256
+!MESSAGE USER LOCATION: file:/C:/Users/ETmarg/user/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.259
+!MESSAGE IDE BUNDLE LOCATION: /E:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/479/1/.cp/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.325
+!MESSAGE 'com.kony.help' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.330
+!MESSAGE 'com.kony.nativecodegen' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.336
+!MESSAGE 'com.kony.cloudtc' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.342
+!MESSAGE 'com.kony.studio.sky' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.349
+!MESSAGE 'com.kony.studio.viz.chrome.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.363
+!MESSAGE 'com.kony.studio.viz.core.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.369
+!MESSAGE 'com.kony.studio.viz.nodejs.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.375
+!MESSAGE 'com.pat.j2me' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.379
+!MESSAGE 'com.kony.bb10' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.383
+!MESSAGE 'com.pat.winmobile' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.462
+!MESSAGE 'com.pat.winmobile6x' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.470
+!MESSAGE 'com.pat.brew' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.477
+!MESSAGE 'com.pat.palm' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.496
+!MESSAGE 'com.pat.playbook' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.508
+!MESSAGE 'com.pat.qt' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.513
+!MESSAGE 'com.pat.andcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.518
+!MESSAGE 'com.pat.bbcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.522
+!MESSAGE 'com.pat.iospolicyinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.545
+!MESSAGE 'tk.eclipse.plugin.htmleditor' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.549
+!MESSAGE 'com.kony.video' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.557
+!MESSAGE Plugin Details are stored successfully at E:\Main-Demo\BankRepo\bankapp\konyplugins.xml.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:06.852
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:16.409
+!MESSAGE Node server shut down successfull.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:16.417
+!MESSAGE workspace location: E:\Main-Demo\BankRepo\bankapp
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:18.085
+!MESSAGE Node location: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\nw\nw_win\node.exe
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:18.089
+!MESSAGE Node start location: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\nw\node_start.bat
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:18.093
+!MESSAGE Starting node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:18.097
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:34.751
+!MESSAGE Executing node startup command: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\nw\nw_win\node.exe app.js console E:\Main-Demo\BankRepo\bankapp C:\Users\ETmarg\Kony Visualizer E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\nw\nw_win\node.exe --NODE_APP_INSTANCE=vide --NODE_CONFIG={\"transfer\":{\"codeanalysis\":{\"serverport\":5230}},\"codeanalysis\":{\"serverport\":5230},\"autonomousBot\":{\"serverport\":4210,\"enableIQRecommendations\":null},\"expressServerPort\":5000,\"functionalPreviewPort\":8888,\"monitorAssets\":true,\"vizClientConfig\":{\"enableModelDriven\":false,\"monitorAssets\":true,\"enableCordovaDevelopment\":true,\"autonomousIQServerPort\":4210,\"enableAppGroups\":true,\"isHeadlessBuild\":false,\"enableToolTips\":true,\"enableIQRecommendations\":null,\"isVizSigned\":true,\"enableNativeApi\":true,\"enableAppWizards\":true,\"enableOrientation\":true,\"enableMarketplace\":true,\"enableMVCExtensions\":false,\"enableIQChat\":null},\"isHeadlessBuild\":false,\"addonServerPort\":9095,\"isVizSigned\":true} 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:34.786
+!MESSAGE Time for node to execute : 29msec
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:34.791
+!MESSAGE ***Started watch for node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:35.203
+!MESSAGE [node console]Loading[config]..E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:35.213
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:35.220
+!MESSAGE [node console]Proxy details not found. Setting useProxy to false.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:36.960
+!MESSAGE [node console]GitDir: C:\Users\ETmarg\Kony Visualizer\vizdata\.konyvizgit
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:37.188
+!MESSAGE [node console]Viz running in EMBEDDED mode
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:38.421
+!MESSAGE [node console][36m[2019-06-04 11:25:38.418] [DEBUG] vide - [39mIn pullWelcomeScreen ...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:38.425
+!MESSAGE [node console][36m[2019-06-04 11:25:38.423] [DEBUG] vide - [39mDownload welcome screen: http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:38.430
+!MESSAGE [node console][36m[2019-06-04 11:25:38.428] [DEBUG] vide - [39mRequesting File from http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.054
+!MESSAGE [node console][32m[2019-06-04 11:25:39.054] [INFO] vide - [39mPorting project[Sample] in workspace [E:\Main-Demo\BankRepo\bankapp] from_version[sprint32], to_version[sprint33]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.070
+!MESSAGE [node console][32m[2019-06-04 11:25:39.054] [INFO] vide - [39mPorting [Sample] from sprint32 to sprint33.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.074
+!MESSAGE [node console][32m[2019-06-04 11:25:39.054] [INFO] vide - [39mSTART :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.079
+!MESSAGE [node console][32m[2019-06-04 11:25:39.055] [INFO] vide - [39mEND :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.084
+!MESSAGE [node console][32m[2019-06-04 11:25:39.055] [INFO] vide - [39mSTART :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.137
+!MESSAGE [node console][32m[2019-06-04 11:25:39.136] [INFO] vide - [39mEND :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.141
+!MESSAGE [node console][32m[2019-06-04 11:25:39.137] [INFO] vide - [39mNo Kony Fabric app exists, so no porting required.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.228
+!MESSAGE [node console][32m[2019-06-04 11:25:39.228] [INFO] vide - [39mPorting [Sample] to sprint33, is completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.413
+!MESSAGE [node console][31m[2019-06-04 11:25:39.413] [ERROR] vide - [39mError while reading file from path E:\Main-Demo\BankRepo\bankapp\Sample\resources\common\infoplist_configuration.json: SyntaxError: Unexpected token / in JSON at position 5
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.443
+!MESSAGE [node console][32m[2019-06-04 11:25:39.442] [INFO] vide - [39m
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.647
+!MESSAGE [node console][36m[2019-06-04 11:25:39.646] [DEBUG] vide - [39mStarted importing component from E:\Main-Demo\BankRepo\bankapp\.imports\.microAppTemp_1371893737\DefaultResources to the project[Sample].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.651
+!MESSAGE [node console][36m[2019-06-04 11:25:39.647] [DEBUG] vide - [39mCreated .temp directory under  E:\Main-Demo\BankRepo\bankapp\.imports
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.718
+!MESSAGE [node console][36m[2019-06-04 11:25:39.718] [DEBUG] vide - [39mComponent type is valid.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.727
+!MESSAGE [node console][32m[2019-06-04 11:25:39.728] [INFO] vide - [39mValidating and Repairing the project structure: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.732
+!MESSAGE [node console][32m[2019-06-04 11:25:39.728] [INFO] vide - [39mValidating project structure using validator template: '7.3'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.752
+!MESSAGE [node console][32m[2019-06-04 11:25:39.752] [INFO] vide - [39mPorting project[import1342233295] in workspace [E:\Main-Demo\BankRepo\bankapp\.imports\.temp] from_version[sprint32], to_version[sprint33]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.757
+!MESSAGE [node console][32m[2019-06-04 11:25:39.752] [INFO] vide - [39mPorting [import1342233295] from sprint32 to sprint33.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.761
+!MESSAGE [node console][32m[2019-06-04 11:25:39.752] [INFO] vide - [39mSTART :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.766
+!MESSAGE [node console][32m[2019-06-04 11:25:39.753] [INFO] vide - [39mEND :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.770
+!MESSAGE [node console][32m[2019-06-04 11:25:39.753] [INFO] vide - [39mSTART :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.774
+!MESSAGE [node console][32m[2019-06-04 11:25:39.753] [INFO] vide - [39mEND :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.779
+!MESSAGE [node console][32m[2019-06-04 11:25:39.753] [INFO] vide - [39mNo Kony Fabric app exists, so no porting required.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.783
+!MESSAGE [node console][32m[2019-06-04 11:25:39.755] [INFO] vide - [39mPorting [import1342233295] to sprint33, is completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.910
+!MESSAGE [node console][36m[2019-06-04 11:25:39.908] [DEBUG] vide - [39mComponent Ids: {}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.914
+!MESSAGE [node console][36m[2019-06-04 11:25:39.910] [DEBUG] vide - [39mLoading templates...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.919
+!MESSAGE [node console][36m[2019-06-04 11:25:39.910] [DEBUG] vide - [39mLoading template : desktop/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.923
+!MESSAGE [node console][36m[2019-06-04 11:25:39.910] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.928
+!MESSAGE [node console][36m[2019-06-04 11:25:39.911] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.932
+!MESSAGE [node console][36m[2019-06-04 11:25:39.911] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.936
+!MESSAGE [node console][36m[2019-06-04 11:25:39.911] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.940
+!MESSAGE [node console][36m[2019-06-04 11:25:39.912] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.944
+!MESSAGE [node console][36m[2019-06-04 11:25:39.912] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.948
+!MESSAGE [node console][36m[2019-06-04 11:25:39.913] [DEBUG] vide - [39mLoading template : desktop/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.952
+!MESSAGE [node console][36m[2019-06-04 11:25:39.913] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.956
+!MESSAGE [node console][36m[2019-06-04 11:25:39.913] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.960
+!MESSAGE [node console][36m[2019-06-04 11:25:39.913] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.963
+!MESSAGE [node console][36m[2019-06-04 11:25:39.914] [DEBUG] vide - [39mLoading template : mobile/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.967
+!MESSAGE [node console][36m[2019-06-04 11:25:39.914] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.971
+!MESSAGE [node console][36m[2019-06-04 11:25:39.914] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.975
+!MESSAGE [node console][36m[2019-06-04 11:25:39.914] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.980
+!MESSAGE [node console][36m[2019-06-04 11:25:39.914] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.984
+!MESSAGE [node console][36m[2019-06-04 11:25:39.915] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.989
+!MESSAGE [node console][36m[2019-06-04 11:25:39.915] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.993
+!MESSAGE [node console][36m[2019-06-04 11:25:39.916] [DEBUG] vide - [39mLoading template : mobile/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:39.998
+!MESSAGE [node console][36m[2019-06-04 11:25:39.916] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.002
+!MESSAGE [node console][36m[2019-06-04 11:25:39.916] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.006
+!MESSAGE [node console][36m[2019-06-04 11:25:39.916] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.011
+!MESSAGE [node console][36m[2019-06-04 11:25:39.917] [DEBUG] vide - [39mLoading template : tablet/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.015
+!MESSAGE [node console][36m[2019-06-04 11:25:39.917] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.020
+!MESSAGE [node console][36m[2019-06-04 11:25:39.918] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.024
+!MESSAGE [node console][36m[2019-06-04 11:25:39.918] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.029
+!MESSAGE [node console][36m[2019-06-04 11:25:39.918] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.033
+!MESSAGE [node console][36m[2019-06-04 11:25:39.918] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.037
+!MESSAGE [node console][36m[2019-06-04 11:25:39.919] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.042
+!MESSAGE [node console][36m[2019-06-04 11:25:39.919] [DEBUG] vide - [39mLoading template : tablet/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.046
+!MESSAGE [node console][36m[2019-06-04 11:25:39.919] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.050
+!MESSAGE [node console][36m[2019-06-04 11:25:39.920] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.055
+!MESSAGE [node console][36m[2019-06-04 11:25:39.920] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.060
+!MESSAGE [node console][36m[2019-06-04 11:25:39.920] [DEBUG] vide - [39mLoading masters.. 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.064
+!MESSAGE [node console][36m[2019-06-04 11:25:39.921] [DEBUG] vide - [39mLoading skins.. sknLblDescription
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.068
+!MESSAGE [node console]sknLblRowHeading
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.073
+!MESSAGE [node console]sknLblStrip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.077
+!MESSAGE [node console]sknLblTimeStamp
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.081
+!MESSAGE [node console]sknSampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.085
+!MESSAGE [node console]sknSampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.089
+!MESSAGE [node console]sknSectionHeaderLabelSkin
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.094
+!MESSAGE [node console]slForm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.098
+!MESSAGE [node console][36m[2019-06-04 11:25:39.923] [DEBUG] vide - [39mValidating web assets...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.102
+!MESSAGE [node console][31m[2019-06-04 11:25:39.923] [ERROR] vide - [39mMissing web asset metafile: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\.webmeta\localfiles.meta-info
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.107
+!MESSAGE [node console][36m[2019-06-04 11:25:39.924] [DEBUG] vide - [39mValidating web assets...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.112
+!MESSAGE [node console][31m[2019-06-04 11:25:39.924] [ERROR] vide - [39mMissing web asset metafile: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\.webmeta\cordova.meta-info
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.115
+!MESSAGE [node console][32m[2019-06-04 11:25:39.927] [INFO] vide - [39mPrepared skin KUID map.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.119
+!MESSAGE [node console] { s75d38934ca74897bc99c5b4270ed150: 'sknLblDescription',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.124
+!MESSAGE [node console]  s839edbfa0714c62a0314f8d7923e117: 'sknLblRowHeading',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.128
+!MESSAGE [node console]  s1cb82c103854acb9a9622460be47c1c: 'sknLblStrip',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.132
+!MESSAGE [node console]  s72f5d68abba4a29b414595cf0a6ace2: 'sknLblTimeStamp',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.136
+!MESSAGE [node console]  sa985589b985438bba0a1c07e6f12e6c: 'sknSampleRowTemplate',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.140
+!MESSAGE [node console]  sb5e98ba4b4c4c5e9038898a1e105516: 'sknSampleSectionHeaderTemplate',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.145
+!MESSAGE [node console]  s85293082d58458cb5d164490b05d315: 'sknSectionHeaderLabelSkin',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.149
+!MESSAGE [node console]  s3c8fa21999241f5b92d115e55dc7e2d: 'slForm' }
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.153
+!MESSAGE [node console][36m[2019-06-04 11:25:39.985] [DEBUG] vide - [39mSaved the skin to .temp.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.158
+!MESSAGE [node console][36m[2019-06-04 11:25:39.985] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.162
+!MESSAGE [node console][36m[2019-06-04 11:25:40.004] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.166
+!MESSAGE [node console][36m[2019-06-04 11:25:40.013] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.170
+!MESSAGE [node console][36m[2019-06-04 11:25:40.028] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.174
+!MESSAGE [node console][36m[2019-06-04 11:25:40.038] [DEBUG] vide - [39mSaving the changed action models.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.178
+!MESSAGE [node console][32m[2019-06-04 11:25:40.055] [INFO] vide - [39mActions implicit copy not required. Skipping.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.181
+!MESSAGE [node console][36m[2019-06-04 11:25:40.055] [DEBUG] vide - [39mImporting a non-MVC Form into an MVC project Sample
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.185
+!MESSAGE [node console][36m[2019-06-04 11:25:40.061] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.189
+!MESSAGE [node console][36m[2019-06-04 11:25:40.061] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.193
+!MESSAGE [node console][36m[2019-06-04 11:25:40.078] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.197
+!MESSAGE [node console][36m[2019-06-04 11:25:40.078] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.201
+!MESSAGE [node console][36m[2019-06-04 11:25:40.093] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.205
+!MESSAGE [node console][36m[2019-06-04 11:25:40.093] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.209
+!MESSAGE [node console][36m[2019-06-04 11:25:40.113] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.213
+!MESSAGE [node console][36m[2019-06-04 11:25:40.113] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.216
+!MESSAGE [node console][36m[2019-06-04 11:25:40.125] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.220
+!MESSAGE [node console][36m[2019-06-04 11:25:40.125] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.223
+!MESSAGE [node console][36m[2019-06-04 11:25:40.139] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.227
+!MESSAGE [node console][36m[2019-06-04 11:25:40.139] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.231
+!MESSAGE [node console][36m[2019-06-04 11:25:40.154] [DEBUG] vide - [39mSaving forms controller actions for channel: desktop
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.235
+!MESSAGE [node console][36m[2019-06-04 11:25:40.155] [DEBUG] vide - [39mSaving templates controller actions for channel: desktop and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.239
+!MESSAGE [node console][36m[2019-06-04 11:25:40.155] [DEBUG] vide - [39mSaving templates controller actions for channel: desktop and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.243
+!MESSAGE [node console][36m[2019-06-04 11:25:40.156] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.247
+!MESSAGE [node console][36m[2019-06-04 11:25:40.156] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.251
+!MESSAGE [node console][36m[2019-06-04 11:25:40.156] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.255
+!MESSAGE [node console][36m[2019-06-04 11:25:40.156] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.259
+!MESSAGE [node console][36m[2019-06-04 11:25:40.157] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.262
+!MESSAGE [node console][36m[2019-06-04 11:25:40.157] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.266
+!MESSAGE [node console][36m[2019-06-04 11:25:40.157] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.270
+!MESSAGE [node console][36m[2019-06-04 11:25:40.158] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.274
+!MESSAGE [node console][36m[2019-06-04 11:25:40.158] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.278
+!MESSAGE [node console][36m[2019-06-04 11:25:40.158] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.281
+!MESSAGE [node console][36m[2019-06-04 11:25:40.158] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\desktop\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.285
+!MESSAGE [node console][36m[2019-06-04 11:25:40.159] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.289
+!MESSAGE [node console][36m[2019-06-04 11:25:40.162] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.293
+!MESSAGE [node console][36m[2019-06-04 11:25:40.162] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.297
+!MESSAGE [node console][36m[2019-06-04 11:25:40.167] [DEBUG] vide - [39mSaving forms controller actions for channel: mobile
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.301
+!MESSAGE [node console][36m[2019-06-04 11:25:40.167] [DEBUG] vide - [39mSaving templates controller actions for channel: mobile and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.305
+!MESSAGE [node console][36m[2019-06-04 11:25:40.168] [DEBUG] vide - [39mSaving templates controller actions for channel: mobile and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.309
+!MESSAGE [node console][36m[2019-06-04 11:25:40.168] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.313
+!MESSAGE [node console][36m[2019-06-04 11:25:40.168] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.317
+!MESSAGE [node console][36m[2019-06-04 11:25:40.168] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.321
+!MESSAGE [node console][36m[2019-06-04 11:25:40.169] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.324
+!MESSAGE [node console][36m[2019-06-04 11:25:40.169] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.328
+!MESSAGE [node console][36m[2019-06-04 11:25:40.169] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.332
+!MESSAGE [node console][36m[2019-06-04 11:25:40.169] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.336
+!MESSAGE [node console][36m[2019-06-04 11:25:40.232] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.340
+!MESSAGE [node console][36m[2019-06-04 11:25:40.232] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.344
+!MESSAGE [node console][36m[2019-06-04 11:25:40.232] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.348
+!MESSAGE [node console][36m[2019-06-04 11:25:40.233] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\mobile\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.353
+!MESSAGE [node console][36m[2019-06-04 11:25:40.233] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.357
+!MESSAGE [node console][36m[2019-06-04 11:25:40.234] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.361
+!MESSAGE [node console][36m[2019-06-04 11:25:40.234] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.366
+!MESSAGE [node console][36m[2019-06-04 11:25:40.239] [DEBUG] vide - [39mSaving forms controller actions for channel: tablet
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.370
+!MESSAGE [node console][36m[2019-06-04 11:25:40.240] [DEBUG] vide - [39mSaving templates controller actions for channel: tablet and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.374
+!MESSAGE [node console][36m[2019-06-04 11:25:40.240] [DEBUG] vide - [39mSaving templates controller actions for channel: tablet and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.379
+!MESSAGE [node console][36m[2019-06-04 11:25:40.241] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.383
+!MESSAGE [node console][36m[2019-06-04 11:25:40.241] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.387
+!MESSAGE [node console][36m[2019-06-04 11:25:40.241] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.391
+!MESSAGE [node console][36m[2019-06-04 11:25:40.241] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.395
+!MESSAGE [node console][36m[2019-06-04 11:25:40.241] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.400
+!MESSAGE [node console][36m[2019-06-04 11:25:40.242] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.404
+!MESSAGE [node console][36m[2019-06-04 11:25:40.242] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.408
+!MESSAGE [node console][36m[2019-06-04 11:25:40.242] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.412
+!MESSAGE [node console][36m[2019-06-04 11:25:40.242] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.416
+!MESSAGE [node console][36m[2019-06-04 11:25:40.243] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.420
+!MESSAGE [node console][36m[2019-06-04 11:25:40.243] [DEBUG] vide - [39m-- Processing: E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\templates\tablet\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.424
+!MESSAGE [node console][36m[2019-06-04 11:25:40.244] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.428
+!MESSAGE [node console][36m[2019-06-04 11:25:40.244] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.432
+!MESSAGE [node console][36m[2019-06-04 11:25:40.244] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.436
+!MESSAGE [node console][31m[2019-06-04 11:25:40.245] [ERROR] vide - [39mError while importing i18n : { inspect: [Function: inspect] }
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.440
+!MESSAGE [node console][31m[2019-06-04 11:25:40.246] [ERROR] vide - [39mENOENT: no such file or directory, open 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\i18n.json'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.444
+!MESSAGE [node console][36m[2019-06-04 11:25:40.246] [DEBUG] vide - [39mENOENT: no such file or directory, open 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\i18n.json'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.448
+!MESSAGE [node console][36m[2019-06-04 11:25:40.246] [DEBUG] vide - [39mCopying content from E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295 to E:\Main-Demo\BankRepo\bankapp\Sample
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.453
+!MESSAGE [node console][36m[2019-06-04 11:25:40.337] [DEBUG] vide - [39mStarting copy of resources.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.460
+!MESSAGE [node console][36m[2019-06-04 11:25:40.391] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\acme.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.465
+!MESSAGE [node console][36m[2019-06-04 11:25:40.391] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\calbtn.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.469
+!MESSAGE [node console][36m[2019-06-04 11:25:40.391] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\defvideoposter.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.474
+!MESSAGE [node console][36m[2019-06-04 11:25:40.391] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\imagedrag.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.479
+!MESSAGE [node console][36m[2019-06-04 11:25:40.392] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\listboxarw.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.483
+!MESSAGE [node console][36m[2019-06-04 11:25:40.392] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option1.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.487
+!MESSAGE [node console][36m[2019-06-04 11:25:40.392] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option2.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.492
+!MESSAGE [node console][36m[2019-06-04 11:25:40.392] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option3.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.496
+!MESSAGE [node console][36m[2019-06-04 11:25:40.392] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option4.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.500
+!MESSAGE [node console][36m[2019-06-04 11:25:40.393] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pageoffdot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.504
+!MESSAGE [node console][36m[2019-06-04 11:25:40.393] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pageondot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.509
+!MESSAGE [node console][36m[2019-06-04 11:25:40.393] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pinb.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.513
+!MESSAGE [node console][36m[2019-06-04 11:25:40.393] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\slider.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.517
+!MESSAGE [node console][36m[2019-06-04 11:25:40.393] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\slider_android.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.521
+!MESSAGE [node console][36m[2019-06-04 11:25:40.394] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\zoomout.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.526
+!MESSAGE [node console][36m[2019-06-04 11:25:40.394] [DEBUG] vide - [39mSkipped copy of resource [common\acme.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.530
+!MESSAGE [node console][36m[2019-06-04 11:25:40.395] [DEBUG] vide - [39mSkipped copy of resource [common\calbtn.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.534
+!MESSAGE [node console][36m[2019-06-04 11:25:40.395] [DEBUG] vide - [39mSkipped copy of resource [common\defvideoposter.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.539
+!MESSAGE [node console][36m[2019-06-04 11:25:40.395] [DEBUG] vide - [39mSkipped copy of resource [common\imagedrag.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.543
+!MESSAGE [node console][36m[2019-06-04 11:25:40.395] [DEBUG] vide - [39mSkipped copy of resource [common\kony_150.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.548
+!MESSAGE [node console][36m[2019-06-04 11:25:40.395] [DEBUG] vide - [39mSkipped copy of resource [common\kony_300.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.552
+!MESSAGE [node console][36m[2019-06-04 11:25:40.396] [DEBUG] vide - [39mSkipped copy of resource [common\kony_48.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.557
+!MESSAGE [node console][36m[2019-06-04 11:25:40.396] [DEBUG] vide - [39mSkipped copy of resource [common\kony_71.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.561
+!MESSAGE [node console][36m[2019-06-04 11:25:40.396] [DEBUG] vide - [39mSkipped copy of resource [common\kony_88.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.565
+!MESSAGE [node console][36m[2019-06-04 11:25:40.396] [DEBUG] vide - [39mSkipped copy of resource [common\listboxarw.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.570
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\option1.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.575
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\option2.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.579
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\option3.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.583
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\option4.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.587
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\pageoffdot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.590
+!MESSAGE [node console][36m[2019-06-04 11:25:40.397] [DEBUG] vide - [39mSkipped copy of resource [common\pageondot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.594
+!MESSAGE [node console][36m[2019-06-04 11:25:40.398] [DEBUG] vide - [39mSkipped copy of resource [common\pinb.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.597
+!MESSAGE [node console][36m[2019-06-04 11:25:40.398] [DEBUG] vide - [39mSkipped copy of resource [common\slider.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.601
+!MESSAGE [node console][36m[2019-06-04 11:25:40.398] [DEBUG] vide - [39mSkipped copy of resource [common\slider_android.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.604
+!MESSAGE [node console][36m[2019-06-04 11:25:40.398] [DEBUG] vide - [39mSkipped copy of resource [common\slider_ios7.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.607
+!MESSAGE [node console][36m[2019-06-04 11:25:40.398] [DEBUG] vide - [39mSkipped copy of resource [common\splash.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.611
+!MESSAGE [node console][36m[2019-06-04 11:25:40.399] [DEBUG] vide - [39mSkipped copy of resource [common\zoomout.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.615
+!MESSAGE [node console][36m[2019-06-04 11:25:40.399] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\close.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.619
+!MESSAGE [node console][36m[2019-06-04 11:25:40.399] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\max.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.623
+!MESSAGE [node console][36m[2019-06-04 11:25:40.453] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\min.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.627
+!MESSAGE [node console][36m[2019-06-04 11:25:40.454] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\tableftarrow.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.631
+!MESSAGE [node console][36m[2019-06-04 11:25:40.454] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\tabrightarrow.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.634
+!MESSAGE [node console][36m[2019-06-04 11:25:40.459] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option1@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.639
+!MESSAGE [node console][36m[2019-06-04 11:25:40.459] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option1@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.643
+!MESSAGE [node console][36m[2019-06-04 11:25:40.461] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option2@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.647
+!MESSAGE [node console][36m[2019-06-04 11:25:40.461] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option2@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.651
+!MESSAGE [node console][36m[2019-06-04 11:25:40.461] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option3@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.655
+!MESSAGE [node console][36m[2019-06-04 11:25:40.461] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option3@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.659
+!MESSAGE [node console][36m[2019-06-04 11:25:40.461] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option4@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.663
+!MESSAGE [node console][36m[2019-06-04 11:25:40.462] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option4@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.667
+!MESSAGE [node console][36m[2019-06-04 11:25:40.462] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-568h@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.671
+!MESSAGE [node console][36m[2019-06-04 11:25:40.462] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-667h@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.675
+!MESSAGE [node console][36m[2019-06-04 11:25:40.462] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-736h@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.679
+!MESSAGE [node console][36m[2019-06-04 11:25:40.463] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-812h@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.683
+!MESSAGE [node console][36m[2019-06-04 11:25:40.463] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.687
+!MESSAGE [node console][36m[2019-06-04 11:25:40.468] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option1@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.691
+!MESSAGE [node console][36m[2019-06-04 11:25:40.468] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option1@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.695
+!MESSAGE [node console][36m[2019-06-04 11:25:40.468] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option2@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.699
+!MESSAGE [node console][36m[2019-06-04 11:25:40.468] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option2@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.703
+!MESSAGE [node console][36m[2019-06-04 11:25:40.469] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option3@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.706
+!MESSAGE [node console][36m[2019-06-04 11:25:40.469] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option3@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.710
+!MESSAGE [node console][36m[2019-06-04 11:25:40.469] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option4@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.715
+!MESSAGE [node console][36m[2019-06-04 11:25:40.469] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option4@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.719
+!MESSAGE [node console][36m[2019-06-04 11:25:40.470] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splash.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.723
+!MESSAGE [node console][36m[2019-06-04 11:25:40.470] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splash@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.726
+!MESSAGE [node console][36m[2019-06-04 11:25:40.470] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splashland.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.730
+!MESSAGE [node console][36m[2019-06-04 11:25:40.470] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splashland@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.734
+!MESSAGE [node console][36m[2019-06-04 11:25:40.472] [DEBUG] vide - [39mFinished copy of resources.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.738
+!MESSAGE [node console][36m[2019-06-04 11:25:40.476] [DEBUG] vide - [39mIgnored 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\component.metadata' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.742
+!MESSAGE [node console][36m[2019-06-04 11:25:40.499] [DEBUG] vide - [39mIgnored 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\modules' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.746
+!MESSAGE [node console][36m[2019-06-04 11:25:40.500] [DEBUG] vide - [39mIgnored 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\resources' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.751
+!MESSAGE [node console][36m[2019-06-04 11:25:40.574] [DEBUG] vide - [39mIgnored 'E:\Main-Demo\BankRepo\bankapp\.imports\.temp\import1342233295\themes' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.755
+!MESSAGE [node console][36m[2019-06-04 11:25:40.578] [DEBUG] vide - [39mCopying is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.759
+!MESSAGE [node console][36m[2019-06-04 11:25:40.623] [DEBUG] vide - [39mGenerating delta structure
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.763
+!MESSAGE [node console][36m[2019-06-04 11:25:40.638] [DEBUG] vide - [39mBuilding new action id - content map
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.767
+!MESSAGE [node console][36m[2019-06-04 11:25:40.732] [DEBUG] vide - [39mRemoved .temp directory in  E:\Main-Demo\BankRepo\bankapp\.imports
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.771
+!MESSAGE [node console][36m[2019-06-04 11:25:40.732] [DEBUG] vide - [39mTime to import: 1086ms
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.785
+!MESSAGE [node console][36m[2019-06-04 11:25:40.785] [DEBUG] vide - [39mDevice detection :: Spawning child process : E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\nw\nw_win\node.exe E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\lib\usbDeviceDetection\deviceDetection.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.894
+!MESSAGE [node console][32m[2019-06-04 11:25:40.891] [INFO] vide - [39mWeb App .webapps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.942
+!MESSAGE [node console][36m[2019-06-04 11:25:40.942] [DEBUG] vide - [39mEventEmitted: proxyServiceStart200[not in use]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.947
+!MESSAGE [node console][36m[2019-06-04 11:25:40.942] [DEBUG] vide - [39mEventEmitted: authServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.951
+!MESSAGE [node console][32m[2019-06-04 11:25:40.942] [INFO] vide - [39mRequest consumer Id
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.957
+!MESSAGE [node console][32m[2019-06-04 11:25:40.956] [INFO] vide - [39mResource Service started on port 5095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.961
+!MESSAGE [node console][36m[2019-06-04 11:25:40.956] [DEBUG] vide - [39mEventEmitted: resourceServiceStart200[5095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.966
+!MESSAGE [node console][32m[2019-06-04 11:25:40.956] [INFO] vide - [39mFunctional Preview Server started on port 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.970
+!MESSAGE [node console][36m[2019-06-04 11:25:40.956] [DEBUG] vide - [39mEventEmitted: functionalPreviewStart200[8888]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.975
+!MESSAGE [node console][32m[2019-06-04 11:25:40.957] [INFO] vide - [39mNotifier Service started on port 5099
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.979
+!MESSAGE [node console][36m[2019-06-04 11:25:40.957] [DEBUG] vide - [39mEventEmitted: kvNotifierStart200[5099]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.984
+!MESSAGE [node console][36m[2019-06-04 11:25:40.957] [DEBUG] vide - [39mAddon server listening on port 9095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:40.989
+!MESSAGE [node console][36m[2019-06-04 11:25:40.957] [DEBUG] vide - [39mAddon server is up!!
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.143
+!MESSAGE [node console][36m[2019-06-04 11:25:41.143] [DEBUG] vide - [39mIn KONYIQ start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.148
+!MESSAGE [node console][36m[2019-06-04 11:25:41.144] [DEBUG] vide - [39mKony IQ i18n server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.153
+!MESSAGE [node console][36m[2019-06-04 11:25:41.144] [DEBUG] vide - [39mEventEmitted: kvAddonStart200[9095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.157
+!MESSAGE [node console]Hike engine server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.162
+!MESSAGE [node console]Loading[config]..E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\466\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.167
+!MESSAGE [node console]Default tours are copied to C:\Users\ETmarg\Kony IQ\iq_addons_cache\hikeengine\8.4\guidedtours
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.171
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.190
+!MESSAGE [node console][32m[2019-06-04 11:25:41.187] [INFO] ~~~~ - [39mUSB Detection :: Device monitoring started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.485
+!MESSAGE [node console][31m[2019-06-04 11:25:41.485] [ERROR] vide - [39mError downloading welcome screen:  Can't download zip file. Response code: 404
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.494
+!MESSAGE [node console][31m[2019-06-04 11:25:41.487] [ERROR] vide - [39mDownload Failed. Response: <html>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.504
+!MESSAGE [node console]<head>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.515
+!MESSAGE [node console]<meta http-equiv="refresh" content="0;url=http://kony.com/error.html">
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.525
+!MESSAGE [node console]</head>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.533
+!MESSAGE [node console]</body>
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.544
+!MESSAGE Node Server state :true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.641
+!MESSAGE [node error](node:1456) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.684
+!MESSAGE javaLibPath->E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/bin/server;E:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/bin;E:/KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise/jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;%JAVA_HOME%\bin;C:\Users\ETmarg\AppData\Local\Android\Sdk\tools;C:\Users\ETmarg\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\TortoiseSVN\bin;C:\Users\ETmarg\AppData\Local\Microsoft\WindowsApps;C:\Users\ETmarg\AppData\Roaming\npm;E:\KonyVisualizerEnterprise8.4.5.0\Ant\bin;E:\Android\android-sdk\platform-tools;E:\Android\android-sdk\tools;C:\Users\ETmarg\AppData\Local\Programs\Git\cmd;C:\Users\ETmarg\AppData\Local\Programs\Microsoft VS Code\bin;E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise;;.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.689
+!MESSAGE DYLD_LIBRARY_PATH(Only in Mac)->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.694
+!MESSAGE JAVACEF_PATH->E:\KonyVisualizerEnterprise8.4.5.0/Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.700
+!MESSAGE Invoking windows configure libs
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.758
+!MESSAGE Chrome lib location->E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\465\1\.cp\win64_build\third_party\chromium_loader
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.763
+!MESSAGE CEF lib location->E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\465\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.768
+!MESSAGE java.library.path->E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\465\1\.cp\win64_build\third_party\chromium_loader;E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\465\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.774
+!MESSAGE fieldSysPath->private static java.lang.String[] java.lang.ClassLoader.sys_paths
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.779
+!MESSAGE java.library.path configured
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.784
+!MESSAGE Invoking chromebrowser.embed()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.837
+!MESSAGE Invoking vide init()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:41.843
+!MESSAGE Invoking vide initiated
+
+!ENTRY org.eclipse.ui 4 0 2019-06-04 11:25:42.657
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.SWT.error(SWT.java:4283)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:472)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:344)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1345)
+	at org.eclipse.ui.internal.quickaccess.QuickAccessContents$4$1.run(QuickAccessContents.java:550)
+	at org.eclipse.swt.widgets.Display.runTimer(Display.java:4271)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3358)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:25:45.840
+!MESSAGE Found installation dir: E:\KonyVisualizerEnterprise8.4.5.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:19.442
+!MESSAGE [node error]No Instance(s) Available.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:19.448
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:19.566
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:23.890
+!MESSAGE konyplugins.xml is copied to E:\Main-Demo\BankRepo\bankapp\Sample successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:51.447
+!MESSAGE konyplugins.xml is copied to E:\Main-Demo\BankRepo\bankapp\BankApplication successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:51.980
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:54.121
+!MESSAGE Project got opened: {"MSG_ID":52,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"BankApplication","ORIGINAL_REQUEST":{"SERVICE_NAME":"OPEN_PROJECT","MSG_ID":52,"MSG_TYPE":"REQUEST","DATA":{"FORCE":true,"PROJECT_CATEGORY":"app","NATIVE_FRAMEWORKS":null,"PROJECT_NAME":"BankApplication"}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-06-04 11:26:55.553
+!MESSAGE konyplugins.xml is copied to E:\Main-Demo\BankRepo\bankapp\BankApplication successfully.

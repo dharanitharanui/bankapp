@@ -1,0 +1,18 @@
+{
+    "AS_UWI_aa4e448321ee4bdaa4a9e4b2f9f11fc4": {
+        "id": "AS_UWI_aa4e448321ee4bdaa4a9e4b2f9f11fc4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

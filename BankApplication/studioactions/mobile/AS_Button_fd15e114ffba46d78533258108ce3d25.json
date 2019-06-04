@@ -1,0 +1,77 @@
+{
+    "AS_Button_fd15e114ffba46d78533258108ce3d25": {
+        "id": "AS_Button_fd15e114ffba46d78533258108ce3d25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____fb5f637afd6743feb06c45a9e0de6cfb",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "if3bbebff6cb4064b0a2ca8c1f2e2041",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "-150%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "400"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____a76bef3f5ced4373b8304862fbd8659f",
+            "animationId": "MOVE_ACTION____fb5f637afd6743feb06c45a9e0de6cfb",
+            "displayAnimationId": "MOVE_ACTION____fb5f637afd6743feb06c45a9e0de6cfb",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__cb24fdaa29a742939fd13b5860d628eb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxAdminCustomer.isVisible=true;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "MOVE_ACTION____a76bef3f5ced4373b8304862fbd8659f",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmRegisterLogiin",
+            "itemKUID": "d7f0fcd971f94a7c938973b628acf14f",
+            "widgetKUID": "f7a53f4da9f0479d932574eac7db2a42",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "60%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "400"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____a76bef3f5ced4373b8304862fbd8659f",
+            "displayAnimationId": "MOVE_ACTION____a76bef3f5ced4373b8304862fbd8659f",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

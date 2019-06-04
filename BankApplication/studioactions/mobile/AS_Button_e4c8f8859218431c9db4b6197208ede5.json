@@ -1,0 +1,28 @@
+{
+    "AS_Button_e4c8f8859218431c9db4b6197208ede5": {
+        "id": "AS_Button_e4c8f8859218431c9db4b6197208ede5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___gb9a472310e1431eaaf576c2c12532ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backToLogin",
+            "display": "backToLogin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

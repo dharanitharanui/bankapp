@@ -1,0 +1,34 @@
+{
+    "AS_UWI_c9da18aa22094a59942d4a7818250b6f": {
+        "id": "AS_UWI_c9da18aa22094a59942d4a7818250b6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmRegisterLogiin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7f0fcd971f94a7c938973b628acf14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c5dc8a8fd9214e558a7405d9fd26c00c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mPinFocus",
+            "display": "mPinFocus",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
