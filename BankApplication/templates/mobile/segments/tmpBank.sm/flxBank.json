@@ -49,6 +49,7 @@
     "enablescrolling": true,
     "id": "flxBank",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ee696b5c739d40058dfc0f438856cff2",

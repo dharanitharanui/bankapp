@@ -1,0 +1,29 @@
+{
+    "AS_UWI_h7f64707fe7a4336b3dde61c37fbeda2": {
+        "id": "AS_UWI_h7f64707fe7a4336b3dde61c37fbeda2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d88e809b39eb474d8c74b94cd5bb69d6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d5d08131988f45a4bbfb39e4ad925aff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmFundTransfer",
+            "formKUID": "b1baade181314b52957d7d4da8f7675d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

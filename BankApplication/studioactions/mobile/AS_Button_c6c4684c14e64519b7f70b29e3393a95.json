@@ -1,33 +1,29 @@
 {
     "AS_Button_c6c4684c14e64519b7f70b29e3393a95": {
-        "actions": [
-            {
-                "callbackType": null,
-                "enableMappingEditor": true,
-                "formId": "frmIfsc",
-                "formKUID": "i515f978f69f4b78aa06a8712c15ba6b",
-                "id": "NAVIGATE_TO_FORM___df2329f62c7d4457940c0987a4096e43",
-                "mappings": {},
-                "mappingsOrder": [],
-                "package": "",
-                "parentId": "",
-                "type": "NAVIGATE_TO_FORM"
-            }
-        ],
+        "id": "AS_Button_c6c4684c14e64519b7f70b29e3393a95",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "bf193f91a1ce4147a36d998fbcfd86f4",
             "name": "frmAddAccountDetails",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_Button_c6c4684c14e64519b7f70b29e3393a95",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___df2329f62c7d4457940c0987a4096e43",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmIfsc",
+            "formKUID": "i515f978f69f4b78aa06a8712c15ba6b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
     }
 }

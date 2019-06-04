@@ -1,31 +1,27 @@
 {
     "AS_UWI_j522c49109274d9abb87230fa281459d": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "Help",
-                "id": "INVOKE_FUNCTION___b555a4a13b8e464caf460077e2087956",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Help",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_j522c49109274d9abb87230fa281459d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "ue706e3e077a4a07afb3aac7cfa986a6",
             "name": "uwue706e3e077a4a07afb3aac7cfa986a6",
             "type": "userwidgets"
         },
-        "id": "AS_UWI_j522c49109274d9abb87230fa281459d",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b555a4a13b8e464caf460077e2087956",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Help",
+            "display": "Help",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

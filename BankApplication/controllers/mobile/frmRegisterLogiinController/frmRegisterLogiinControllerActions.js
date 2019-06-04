@@ -2,11 +2,6 @@ define({
     /*
       This is an auto generated file and any modifications to it may result in corruption of the action sequence.
     */
-    /** onClick defined for buttonLogin **/
-    AS_UWI_e868a8a37f284fc59157d12b96777ef5: function AS_UWI_e868a8a37f284fc59157d12b96777ef5(eventobject) {
-        var self = this;
-        self.addAccount.call(this);
-    },
     /** onClick defined for backToLogin **/
     AS_Button_e4c8f8859218431c9db4b6197208ede5: function AS_Button_e4c8f8859218431c9db4b6197208ede5(eventobject) {
         var self = this;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="emulator-run-settings">
+	<item value="false" key="mode"/>
+	<item value="ANDDEVX-ZY223LB6HL" key="emulatorName"/>
+	<item value="Devices" key="channel"/>
+	<item value="android" key="platformID"/>
+	<item value="Android" key="platform"/>
+</section>

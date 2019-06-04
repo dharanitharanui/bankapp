@@ -1,125 +1,118 @@
 {
     "AS_UWI_a503c24e837c4932b814c27bbd7e90e5": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "recent",
-                "id": "INVOKE_FUNCTION___accbd0bf5bd6442cb0ae5758e8f9f85b",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "recent",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            },
-            {
-                "animationId": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "0%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "delay": "0",
-                    "duration": "250",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS",
-                    "iterationCount": 1
-                },
-                "displayAnimationId": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
-                "itemId": "frmFundTransfer",
-                "itemKUID": "b1baade181314b52957d7d4da8f7675d",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetId": "flxSeg",
-                "widgetKUID": "bc3eb5f0be564b768d715f4d89d64b29",
-                "widgetPath": "this.view.flxSeg"
-            },
-            {
-                "animationId": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "100%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "delay": "0",
-                    "duration": "250",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS",
-                    "iterationCount": 1
-                },
-                "displayAnimationId": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
-                "itemId": "frmFundTransfer",
-                "itemKUID": "b1baade181314b52957d7d4da8f7675d",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetId": "flxUpcoming",
-                "widgetKUID": "e7ad4aea013e464688309136b1c1d369",
-                "widgetPath": "this.view.flxUpcoming"
-            },
-            {
-                "animationId": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "100%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "delay": "0",
-                    "duration": "250",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS",
-                    "iterationCount": 1
-                },
-                "displayAnimationId": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
-                "itemId": "frmFundTransfer",
-                "itemKUID": "b1baade181314b52957d7d4da8f7675d",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetId": "flxAllpayee",
-                "widgetKUID": "jc79db40806c4041b2c02187da9275cd",
-                "widgetPath": "this.view.flxAllpayee"
-            }
-        ],
+        "id": "AS_UWI_a503c24e837c4932b814c27bbd7e90e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "b1baade181314b52957d7d4da8f7675d",
             "name": "frmFundTransfer",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_a503c24e837c4932b814c27bbd7e90e5",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___accbd0bf5bd6442cb0ae5758e8f9f85b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "recent",
+            "display": "recent",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmFundTransfer",
+            "widgetId": "flxSeg",
+            "itemKUID": "b1baade181314b52957d7d4da8f7675d",
+            "widgetKUID": "bc3eb5f0be564b768d715f4d89d64b29",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "0%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "duration": "250",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "iterationCount": 1
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
+            "animationId": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
+            "displayAnimationId": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxSeg"
+        }, {
+            "id": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmFundTransfer",
+            "widgetId": "flxUpcoming",
+            "itemKUID": "b1baade181314b52957d7d4da8f7675d",
+            "widgetKUID": "e7ad4aea013e464688309136b1c1d369",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "100%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "duration": "250",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "iterationCount": 1
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
+            "animationId": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
+            "displayAnimationId": "MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxUpcoming"
+        }, {
+            "id": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmFundTransfer",
+            "widgetId": "flxAllpayee",
+            "itemKUID": "b1baade181314b52957d7d4da8f7675d",
+            "widgetKUID": "jc79db40806c4041b2c02187da9275cd",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "100%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "duration": "250",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "iterationCount": 1
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____d01336cdad624968823db69a03e51b54",
+            "animationId": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
+            "displayAnimationId": "MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxAllpayee"
+        }]
     }
 }

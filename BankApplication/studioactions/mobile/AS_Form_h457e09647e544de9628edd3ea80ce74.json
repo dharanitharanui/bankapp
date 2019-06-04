@@ -1,163 +1,155 @@
 {
     "AS_Form_h457e09647e544de9628edd3ea80ce74": {
-        "actions": [
-            {
-                "animationId": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "-40%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "delay": "1",
-                    "duration": "500",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS"
-                },
-                "disabled": true,
-                "displayAnimationId": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "itemId": "frmDashBoard",
-                "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetKUID": "dc5ca6e0c3f14bae8e13520b2965f288"
-            },
-            {
-                "animationId": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "0%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "delay": "0",
-                    "duration": "500",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS"
-                },
-                "disabled": true,
-                "displayAnimationId": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
-                "itemId": "frmDashBoard",
-                "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetKUID": "jb65093228d84c11b80005ddfed498fd"
-            },
-            {
-                "animationId": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "40%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "duration": "500",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS"
-                },
-                "disabled": true,
-                "displayAnimationId": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
-                "itemId": "frmDashBoard",
-                "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetKUID": "fcde648166164ef5b826943a57f83f41"
-            },
-            {
-                "animationId": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "80%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "duration": "500",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS"
-                },
-                "disabled": true,
-                "displayAnimationId": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
-                "itemId": "frmDashBoard",
-                "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetKUID": "fd1f87c723d44ff9a84d2aeab57cd132"
-            },
-            {
-                "animationId": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
-                "animationObject": {
-                    "anchorPoint": {},
-                    "left": "120%",
-                    "stepConfig": {
-                        "timingFunction": "kony.anim.EASE"
-                    }
-                },
-                "callbackType": null,
-                "config": {
-                    "duration": "500",
-                    "fillMode": "kony.anim.FILL_MODE_FORWARDS"
-                },
-                "disabled": true,
-                "displayAnimationId": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
-                "forkedPlatform": "all",
-                "id": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
-                "itemId": "frmDashBoard",
-                "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
-                "itemType": "FORM",
-                "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
-                "parentId": null,
-                "start": "Immediately",
-                "type": "MOVE_ACTION",
-                "wType": "FlexContainer",
-                "widgetKUID": "g5d2350e5e904adda6dd85ad82d146f9"
-            }
-        ],
+        "id": "AS_Form_h457e09647e544de9628edd3ea80ce74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_Form_h457e09647e544de9628edd3ea80ce74",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashBoard",
+            "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "widgetKUID": "dc5ca6e0c3f14bae8e13520b2965f288",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "-40%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "1",
+                "duration": "500",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
+            "animationId": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "displayAnimationId": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashBoard",
+            "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "widgetKUID": "jb65093228d84c11b80005ddfed498fd",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "0%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "duration": "500",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "animationId": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
+            "displayAnimationId": "MOVE_ACTION____a16566e8687e46ef8b96dad18cf17e5e",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashBoard",
+            "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "widgetKUID": "fcde648166164ef5b826943a57f83f41",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "40%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "duration": "500",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "animationId": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
+            "displayAnimationId": "MOVE_ACTION____idf5d994f86f4d4fa6a05c153221ffcd",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashBoard",
+            "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "widgetKUID": "fd1f87c723d44ff9a84d2aeab57cd132",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "80%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "duration": "500",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "animationId": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
+            "displayAnimationId": "MOVE_ACTION____da2186fcd4224195934fb35cc45530e6",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashBoard",
+            "itemKUID": "d88e809b39eb474d8c74b94cd5bb69d6",
+            "widgetKUID": "g5d2350e5e904adda6dd85ad82d146f9",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "left": "120%",
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "duration": "500",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____ac8ff5148e374a5eac707c5b09c162df",
+            "animationId": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
+            "displayAnimationId": "MOVE_ACTION____de60d52781f2496582300392ad8eafd8",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }]
     }
 }

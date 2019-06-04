@@ -1,28 +1,24 @@
 {
     "AS_Form_fea8241a193848c0ab062098e9e97c92": {
-        "actions": [
-            {
-                "callbackType": null,
-                "codeSnippet": "this.view.flxAccounDetailsHeader.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxAccounDetailsHeader.shadowDepth=8;\nthis.view.flxDetailsSettings.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxDetailsSettings.shadowDepth=10;",
-                "id": "ADD_SNIPPET__ibf7885b05b4479ab786496e06ef6a57",
-                "parentId": null,
-                "type": "ADD_SNIPPET"
-            }
-        ],
+        "id": "AS_Form_fea8241a193848c0ab062098e9e97c92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "a8735d7f115f471cbad7b0ce58f47892",
             "name": "frmAccountsSettings",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_Form_fea8241a193848c0ab062098e9e97c92",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "ADD_SNIPPET__ibf7885b05b4479ab786496e06ef6a57",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxAccounDetailsHeader.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxAccounDetailsHeader.shadowDepth=8;\nthis.view.flxDetailsSettings.shadowType=constants.VIEW_BOUNDS_SHADOW;\nthis.view.flxDetailsSettings.shadowDepth=10;",
+            "parentId": null,
+            "callbackType": null
+        }]
     }
 }

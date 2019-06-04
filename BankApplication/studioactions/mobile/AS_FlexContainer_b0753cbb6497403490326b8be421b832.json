@@ -1,28 +1,24 @@
 {
     "AS_FlexContainer_b0753cbb6497403490326b8be421b832": {
-        "actions": [],
+        "id": "AS_FlexContainer_b0753cbb6497403490326b8be421b832",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_FlexContainer_b0753cbb6497403490326b8be421b832",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            },
-            {
-                "datatype": "string",
-                "name": "x"
-            },
-            {
-                "datatype": "string",
-                "name": "y"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": []
     }
 }

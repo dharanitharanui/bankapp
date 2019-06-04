@@ -24,10 +24,6 @@
     ],
     "_skin_": "se56cf5ae6fe470487943e2ed5a39128",
     "_text_": "Label",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "98%"

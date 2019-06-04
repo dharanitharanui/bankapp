@@ -26,10 +26,6 @@
     ],
     "_percent_": true,
     "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
-    "_top_": {
-        "type": "string",
-        "value": "28%"
-    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -39,7 +35,11 @@
     "clipbounds": true,
     "containerweight": 0,
     "data": {
-        "placeholder": "Recipient name",
+        "keyBoardStyle": {
+            "Default": "digitpad"
+        },
+        "placeholder": "Amount",
+        "textInputMode": "N",
         "visible": false
     },
     "enablescrolling": true,

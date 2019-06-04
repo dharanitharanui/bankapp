@@ -40,6 +40,8 @@
         "lblOr",
         "text6",
         "text7",
+        "text8",
+        "text13",
         "buttonn1"
     ],
     "clipbounds": true,
@@ -50,7 +52,7 @@
     "iscustomlayout": false,
     "isvisible": false,
     "kuid": "ca745b5bfdd646f9aecb5e7d82be619e",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxAccountDetails",
     "pf": "frmAddAccountDetails",

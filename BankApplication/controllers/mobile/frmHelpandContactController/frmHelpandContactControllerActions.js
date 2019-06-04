@@ -52,20 +52,10 @@ define({
         var self = this;
         return self.Answer10.call(this);
     },
-    /** onClick defined for Cancel **/
-    AS_UWI_c5962cb868b84f09ac23b90812ab663e: function AS_UWI_c5962cb868b84f09ac23b90812ab663e(eventobject) {
-        var self = this;
-        this.view.flxAnswers.isVisible = false;
-    },
     /** onClick defined for flxAnswers **/
     AS_FlexContainer_i070b2a18ebb4a7288275a77433e5d24: function AS_FlexContainer_i070b2a18ebb4a7288275a77433e5d24(eventobject) {
         var self = this;
         this.HamurgerOut();
-    },
-    /** onClick defined for Head **/
-    AS_UWI_d380c269eae24f19a5151c92692c073e: function AS_UWI_d380c269eae24f19a5151c92692c073e(eventobject) {
-        var self = this;
-        return self.HamburgerIn.call(this, null, null, null);
     },
     /** preShow defined for frmHelpandContact **/
     AS_Form_f8d2d0dae69a4f13aa94572f9353d7a8: function AS_Form_f8d2d0dae69a4f13aa94572f9353d7a8(eventobject) {

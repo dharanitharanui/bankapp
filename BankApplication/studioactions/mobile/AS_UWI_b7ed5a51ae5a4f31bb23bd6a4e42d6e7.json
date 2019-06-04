@@ -1,0 +1,28 @@
+{
+    "AS_UWI_b7ed5a51ae5a4f31bb23bd6a4e42d6e7": {
+        "id": "AS_UWI_b7ed5a51ae5a4f31bb23bd6a4e42d6e7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmFundTransfer",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b1baade181314b52957d7d4da8f7675d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i4b176d7b9e243a2b824e3c0cd827766",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "paysamebank",
+            "display": "paysamebank",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

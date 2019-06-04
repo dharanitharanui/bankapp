@@ -1,28 +1,24 @@
 {
     "AS_UWI_a2e9d1f020b7468eb62b2960375b1c47": {
-        "actions": [
-            {
-                "callbackType": null,
-                "codeSnippet": "this.view.flxImpsPopup.isVisible=false;",
-                "id": "ADD_SNIPPET__b443a6fba0444f4da662b48c002acfa4",
-                "parentId": null,
-                "type": "ADD_SNIPPET"
-            }
-        ],
+        "id": "AS_UWI_a2e9d1f020b7468eb62b2960375b1c47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_a2e9d1f020b7468eb62b2960375b1c47",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "ADD_SNIPPET__b443a6fba0444f4da662b48c002acfa4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxImpsPopup.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
     }
 }

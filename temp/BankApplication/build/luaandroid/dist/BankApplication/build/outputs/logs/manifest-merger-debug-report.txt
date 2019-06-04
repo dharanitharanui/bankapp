@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\76dd8183b98f6032160f5392433910c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad0487eea9b116476812a0510da2e543\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\72782143396d1e0d89ad82e5f178a401\AndroidManifest.xml:17:1-22:12
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:2:1-25:12
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1a9bb876db62943949c506de79d31767\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9245009bebed6acd607f09013d5871b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de5531f90cd6620f0fdb466f71e76982\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d7bb3a6803d7709f1713a0203c59bf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0dc07db7e17eafdb5227863014956308\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\022deaada1e900be9344b7d1b593a36d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d28f82b0093264d7c174d4a4fe9bc5c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b9695798a9d590089cb5e71ebbf868f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8d1434c90f716370b16ea1a3c7a983cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0974c7dc9bd6b9e9ce14252dc70f5982\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c57239f257dd4ac08f0cc68cf7609a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\133ad3bcc593f18dd14533ea1a4fd9d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\193b12daa566933b65bd4105c9c48e5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1129963c2f1ec1a82e2592d333352c45\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7947f323e601565d2ea9fd7c7fd9480\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fffd1249b6f48e2c084f609c8ae7a623\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ecb2c9a186ca33605f77788735e8319e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76190be9650d13ffda6aba6ad4e70d3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3460052d41f4e7c494c12b8c72dabc2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72d48a61c64375f1b6425aae39d7c819\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00d134df9d8ca2f53a197832446d7620\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf25610233b6f1ee91135641605c2d66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c140b6ea59bac70475e47cd78b735fc0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\390836132f3e49042f6ec2f6b0aafb14\AndroidManifest.xml:17:1-22:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+INJECTED from A:\BankApplication\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from A:\BankApplication\AndroidManifest.xml:4:4-41
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+	android:versionName
+		ADDED from A:\BankApplication\AndroidManifest.xml:5:7-34
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+	xmlns:tools
+		ADDED from A:\BankApplication\AndroidManifest.xml:3:7-53
+	xmlns:android
+		ADDED from A:\BankApplication\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from A:\BankApplication\AndroidManifest.xml:5:35-58
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+application
+ADDED from A:\BankApplication\AndroidManifest.xml:6:5-33:16
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:13:5-23:19
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:13:5-23:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:15:5-25:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:15:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1129963c2f1ec1a82e2592d333352c45\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1129963c2f1ec1a82e2592d333352c45\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from A:\BankApplication\AndroidManifest.xml:6:118-150
+	android:icon
+		ADDED from A:\BankApplication\AndroidManifest.xml:6:151-196
+	tools:remove
+		ADDED from A:\BankApplication\AndroidManifest.xml:6:18-44
+	tools:replace
+		ADDED from A:\BankApplication\AndroidManifest.xml:6:45-65
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:6:66-117
+activity#com.orgname.BankApplication.BankApplication
+ADDED from A:\BankApplication\AndroidManifest.xml:7:9-18:12
+	android:screenOrientation
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:249-283
+	android:label
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:102-134
+	android:launchMode
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:135-166
+	android:windowSoftInputMode
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:284-326
+	android:configChanges
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:167-248
+	android:theme
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:19-69
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:7:70-101
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from A:\BankApplication\AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from A:\BankApplication\AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\BankApplication\AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:10:27-74
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from A:\BankApplication\AndroidManifest.xml:14:14-181
+action#android.intent.action.SEARCH
+ADDED from A:\BankApplication\AndroidManifest.xml:14:37-91
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:14:45-88
+category#android.intent.category.DEFAULT
+ADDED from A:\BankApplication\AndroidManifest.xml:14:99-158
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:14:109-155
+meta-data#android.app.searchable
+ADDED from A:\BankApplication\AndroidManifest.xml:15:14-114
+	android:resource
+		ADDED from A:\BankApplication\AndroidManifest.xml:15:77-111
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:15:32-69
+meta-data#android.app.default_searchable
+ADDED from A:\BankApplication\AndroidManifest.xml:24:3-98
+	android:value
+		ADDED from A:\BankApplication\AndroidManifest.xml:24:70-95
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:24:14-59
+provider#com.orgname.BankApplication.BankApplicationSearchSuggestionProvider
+ADDED from A:\BankApplication\AndroidManifest.xml:25:3-191
+	android:authorities
+		ADDED from A:\BankApplication\AndroidManifest.xml:25:13-96
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:25:106-188
+uses-library#org.apache.http.legacy
+ADDED from A:\BankApplication\AndroidManifest.xml:32:3-82
+	android:required
+		ADDED from A:\BankApplication\AndroidManifest.xml:32:55-79
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:32:17-54
+supports-screens
+ADDED from A:\BankApplication\AndroidManifest.xml:36:2-167
+	android:largeScreens
+		ADDED from A:\BankApplication\AndroidManifest.xml:36:106-134
+	android:smallScreens
+		ADDED from A:\BankApplication\AndroidManifest.xml:36:47-75
+	android:normalScreens
+		ADDED from A:\BankApplication\AndroidManifest.xml:36:76-105
+	android:xlargeScreens
+		ADDED from A:\BankApplication\AndroidManifest.xml:36:135-164
+	android:anyDensity
+		ADDED from A:\BankApplication\AndroidManifest.xml:36:20-46
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from A:\BankApplication\AndroidManifest.xml:37:3-72
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:11:5-75
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:37:20-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from A:\BankApplication\AndroidManifest.xml:38:2-75
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:13:5-79
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:38:19-73
+uses-permission#android.permission.INTERNET
+ADDED from A:\BankApplication\AndroidManifest.xml:39:2-63
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:12:5-67
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from A:\BankApplication\AndroidManifest.xml:39:19-61
+uses-sdk
+INJECTED from A:\BankApplication\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\BankApplication\AndroidManifest.xml
+INJECTED from A:\BankApplication\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\76dd8183b98f6032160f5392433910c2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\76dd8183b98f6032160f5392433910c2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad0487eea9b116476812a0510da2e543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad0487eea9b116476812a0510da2e543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\72782143396d1e0d89ad82e5f178a401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\72782143396d1e0d89ad82e5f178a401\AndroidManifest.xml:20:5-44
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:7:5-9:41
+MERGED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:7:5-9:41
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:8:5-10:41
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1a9bb876db62943949c506de79d31767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1a9bb876db62943949c506de79d31767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9245009bebed6acd607f09013d5871b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9245009bebed6acd607f09013d5871b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de5531f90cd6620f0fdb466f71e76982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de5531f90cd6620f0fdb466f71e76982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d7bb3a6803d7709f1713a0203c59bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3d7bb3a6803d7709f1713a0203c59bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0dc07db7e17eafdb5227863014956308\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0dc07db7e17eafdb5227863014956308\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\022deaada1e900be9344b7d1b593a36d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\022deaada1e900be9344b7d1b593a36d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d28f82b0093264d7c174d4a4fe9bc5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d28f82b0093264d7c174d4a4fe9bc5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b9695798a9d590089cb5e71ebbf868f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b9695798a9d590089cb5e71ebbf868f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8d1434c90f716370b16ea1a3c7a983cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8d1434c90f716370b16ea1a3c7a983cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0974c7dc9bd6b9e9ce14252dc70f5982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0974c7dc9bd6b9e9ce14252dc70f5982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c57239f257dd4ac08f0cc68cf7609a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0c57239f257dd4ac08f0cc68cf7609a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\133ad3bcc593f18dd14533ea1a4fd9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\133ad3bcc593f18dd14533ea1a4fd9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\193b12daa566933b65bd4105c9c48e5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\193b12daa566933b65bd4105c9c48e5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\39995a6ff967a203b246874e7a8d6ff6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1129963c2f1ec1a82e2592d333352c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1129963c2f1ec1a82e2592d333352c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7947f323e601565d2ea9fd7c7fd9480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7947f323e601565d2ea9fd7c7fd9480\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fffd1249b6f48e2c084f609c8ae7a623\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fffd1249b6f48e2c084f609c8ae7a623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ecb2c9a186ca33605f77788735e8319e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ecb2c9a186ca33605f77788735e8319e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76190be9650d13ffda6aba6ad4e70d3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\76190be9650d13ffda6aba6ad4e70d3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3460052d41f4e7c494c12b8c72dabc2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3460052d41f4e7c494c12b8c72dabc2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72d48a61c64375f1b6425aae39d7c819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\72d48a61c64375f1b6425aae39d7c819\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00d134df9d8ca2f53a197832446d7620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\00d134df9d8ca2f53a197832446d7620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf25610233b6f1ee91135641605c2d66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf25610233b6f1ee91135641605c2d66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c140b6ea59bac70475e47cd78b735fc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c140b6ea59bac70475e47cd78b735fc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\390836132f3e49042f6ec2f6b0aafb14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\390836132f3e49042f6ec2f6b0aafb14\AndroidManifest.xml:20:5-44
+INJECTED from A:\BankApplication\AndroidManifest.xml
+INJECTED from A:\BankApplication\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+		ADDED from A:\BankApplication\AndroidManifest.xml
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+		ADDED from A:\BankApplication\AndroidManifest.xml
+		INJECTED from A:\BankApplication\AndroidManifest.xml
+service#com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService
+ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:14:9-18:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:16:9-20:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:16:9-20:19
+	android:exported
+		ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:16:13-37
+	android:permission
+		ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:15:13-91
+service#com.kony.sdkcommons.Network.NetworkCore.KNYHttpService
+ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:19:9-22:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:21:9-24:19
+MERGED from [:syncv2library-release:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\syncv2library-release.aar\8fb5464c93044f739bd9464b29c7d366\AndroidManifest.xml:21:9-24:19
+	android:exported
+		ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:cms:] C:\Users\ETmarg\.gradle\caches\transforms-1\files-1.1\cms.aar\08683d0861ef9602630416bbb303ea62\AndroidManifest.xml:20:13-82

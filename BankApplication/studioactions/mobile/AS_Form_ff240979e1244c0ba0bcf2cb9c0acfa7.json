@@ -1,0 +1,28 @@
+{
+    "AS_Form_ff240979e1244c0ba0bcf2cb9c0acfa7": {
+        "id": "AS_Form_ff240979e1244c0ba0bcf2cb9c0acfa7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmIfsc",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i515f978f69f4b78aa06a8712c15ba6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aec141e6901d46798d740be1a4ca27fd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "bank",
+            "display": "bank",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

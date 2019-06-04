@@ -20,9 +20,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____d01336cdad624968823db69a03e51b54_Callback
         });
@@ -36,9 +36,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____d2a06168337d4c72a5bb0a7d14ed63e6_Callback
         });
@@ -52,9 +52,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____j4894c0e0d1f4f54860734c8e1f982d0_Callback
         });
@@ -77,9 +77,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____f0c9210cf8194f57877f39341aa0f90e_Callback
         });
@@ -93,9 +93,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____c3e5544203b14ac0ba0ad843f7f195d5_Callback
         });
@@ -109,9 +109,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____i7f0eb983f944e5db1273cbbead50070_Callback
         });
@@ -134,9 +134,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____ec7857509c894fb398827ea0d797d58a_Callback
         });
@@ -150,9 +150,9 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____ca5ee9f24b7644759f739a4fd4f7baba_Callback
         });
@@ -166,12 +166,32 @@ define({
             }
         }), {
             "delay": 0,
-            "iterationCount": 1,
+            "duration": 0.25,
             "fillMode": kony.anim.FILL_MODE_FORWARDS,
-            "duration": 0.25
+            "iterationCount": 1
         }, {
             "animationEnd": MOVE_ACTION____c099c0ec1d3e48a3816df5e7f7512d26_Callback
         });
+    },
+    /** tabonClick defined for tab3 **/
+    AS_UWI_b7ed5a51ae5a4f31bb23bd6a4e42d6e7: function AS_UWI_b7ed5a51ae5a4f31bb23bd6a4e42d6e7(eventobject) {
+        var self = this;
+        return self.paysamebank.call(this);
+    },
+    /** tabonClick defined for tab4 **/
+    AS_UWI_d9a84357bfc44ee191a5f384f100b441: function AS_UWI_d9a84357bfc44ee191a5f384f100b441(eventobject) {
+        var self = this;
+        return self.paydiffbank.call(this);
+    },
+    /** tabonClick defined for tab5 **/
+    AS_UWI_hf5e10d902af4e8aa9d861d06e217068: function AS_UWI_hf5e10d902af4e8aa9d861d06e217068(eventobject) {
+        var self = this;
+        return self.paymobilebank.call(this);
+    },
+    /** tabonClick defined for tab6 **/
+    AS_UWI_b22a74866ec441c0b49f5404c9773fce: function AS_UWI_b22a74866ec441c0b49f5404c9773fce(eventobject) {
+        var self = this;
+        return self.payfavbank.call(this);
     },
     /** onclick defined for buttonn **/
     AS_UWI_ic974eb0919d434cb77de15d9621fbda: function AS_UWI_ic974eb0919d434cb77de15d9621fbda(eventobject) {

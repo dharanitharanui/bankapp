@@ -1,32 +1,28 @@
 {
     "AS_FlexContainer_a57b1df64b544e14a077aa0d5ae3a1ae": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "Empty",
-                "id": "INVOKE_FUNCTION___a754c58bcc1b4183b7577ae250ca3eb2",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Empty",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_FlexContainer_a57b1df64b544e14a077aa0d5ae3a1ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_FlexContainer_a57b1df64b544e14a077aa0d5ae3a1ae",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a754c58bcc1b4183b7577ae250ca3eb2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Empty",
+            "display": "Empty",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

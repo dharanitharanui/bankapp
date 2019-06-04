@@ -1,42 +1,34 @@
 {
     "AS_FlexContainer_ee9e5694b9ae45c9b0d74c6e85980084": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "HamurgerOut",
-                "id": "INVOKE_FUNCTION___j539af6da56042b2acd7561804c03814",
-                "inputparams": [
-                    {
-                        "name": "eventobject"
-                    },
-                    {
-                        "name": "x"
-                    },
-                    {
-                        "name": "y"
-                    }
-                ],
-                "parentId": null,
-                "sequenceKUID": "HamurgerOut",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_FlexContainer_ee9e5694b9ae45c9b0d74c6e85980084",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "a8735d7f115f471cbad7b0ce58f47892",
             "name": "frmAccountsSettings",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_FlexContainer_ee9e5694b9ae45c9b0d74c6e85980084",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j539af6da56042b2acd7561804c03814",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HamurgerOut",
+            "display": "HamurgerOut",
+            "inputparams": [{
                 "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+            }, {
+                "name": "x"
+            }, {
+                "name": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

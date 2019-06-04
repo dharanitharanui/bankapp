@@ -1,31 +1,27 @@
 {
     "AS_UWI_j1d5e5a309ba409288b337f6d4a9490c": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "Credit",
-                "id": "INVOKE_FUNCTION___ecfef8ccfe6d460fa74d77673b148978",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Credit",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_j1d5e5a309ba409288b337f6d4a9490c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "ue706e3e077a4a07afb3aac7cfa986a6",
             "name": "uwue706e3e077a4a07afb3aac7cfa986a6",
             "type": "userwidgets"
         },
-        "id": "AS_UWI_j1d5e5a309ba409288b337f6d4a9490c",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ecfef8ccfe6d460fa74d77673b148978",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Credit",
+            "display": "Credit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

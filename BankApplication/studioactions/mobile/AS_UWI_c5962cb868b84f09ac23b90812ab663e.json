@@ -1,28 +1,24 @@
 {
     "AS_UWI_c5962cb868b84f09ac23b90812ab663e": {
-        "actions": [
-            {
-                "callbackType": null,
-                "codeSnippet": "this.view.flxAnswers.isVisible=false;",
-                "id": "ADD_SNIPPET__bcb80f36c1624c97920184fb3b63bbdc",
-                "parentId": null,
-                "type": "ADD_SNIPPET"
-            }
-        ],
+        "id": "AS_UWI_c5962cb868b84f09ac23b90812ab663e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
             "name": "frmHelpandContact",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_c5962cb868b84f09ac23b90812ab663e",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "ADD_SNIPPET__bcb80f36c1624c97920184fb3b63bbdc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxAnswers.isVisible=false;",
+            "parentId": null,
+            "callbackType": null
+        }]
     }
 }

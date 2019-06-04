@@ -1,32 +1,28 @@
 {
     "AS_UWI_d4d2432e35a84546a32a2ee3cb725c82": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "Answer3",
-                "id": "INVOKE_FUNCTION___j65622ff227c4d919f9f3a180cdb694f",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Answer3",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_d4d2432e35a84546a32a2ee3cb725c82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
             "name": "frmHelpandContact",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_d4d2432e35a84546a32a2ee3cb725c82",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j65622ff227c4d919f9f3a180cdb694f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Answer3",
+            "display": "Answer3",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

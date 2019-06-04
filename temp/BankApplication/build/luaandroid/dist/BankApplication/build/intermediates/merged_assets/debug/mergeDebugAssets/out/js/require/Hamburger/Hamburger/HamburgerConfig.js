@@ -1,0 +1,42 @@
+define(function() {
+    return {
+        "properties": [{
+            "name": "VisibleBank",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "text",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "CreditVisible",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "DebitVisible",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "LoanVisible",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "BlockCardVisible",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "srcarrow",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }],
+        "apis": [],
+        "events": []
+    }
+});

@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="pluginstate">
+	<item value="false" key="BankApplication.winmobilebuild"/>
+	<item value="true" key="BankApplication.balckberrybuild"/>
+	<item value="true" key="BankApplication.j2mebuild"/>
 </section>

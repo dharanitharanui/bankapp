@@ -2,11 +2,6 @@ define({
     /*
       This is an auto generated file and any modifications to it may result in corruption of the action sequence.
     */
-    /** onClick defined for Head **/
-    AS_UWI_ce277151670a45caaf4e53d0ed4bb72d: function AS_UWI_ce277151670a45caaf4e53d0ed4bb72d(eventobject) {
-        var self = this;
-        return self.HamburgerIn.call(this, null, null, null);
-    },
     /** onClick defined for Account **/
     AS_UWI_b5c3424518e24ddaadf53ad075335b44: function AS_UWI_b5c3424518e24ddaadf53ad075335b44(eventobject) {
         var self = this;
@@ -17,15 +12,16 @@ define({
         var self = this;
         return self.ImpsPopUpOn.call(this);
     },
+    /** onClick defined for FundTransfer **/
+    AS_UWI_h7f64707fe7a4336b3dde61c37fbeda2: function AS_UWI_h7f64707fe7a4336b3dde61c37fbeda2(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmFundTransfer");
+        ntf.navigate();
+    },
     /** onClick defined for flxBlack **/
     AS_FlexContainer_a57b1df64b544e14a077aa0d5ae3a1ae: function AS_FlexContainer_a57b1df64b544e14a077aa0d5ae3a1ae(eventobject) {
         var self = this;
         return self.Empty.call(this);
-    },
-    /** onClick defined for Close **/
-    AS_UWI_a2e9d1f020b7468eb62b2960375b1c47: function AS_UWI_a2e9d1f020b7468eb62b2960375b1c47(eventobject) {
-        var self = this;
-        this.view.flxImpsPopup.isVisible = false;
     },
     /** preShow defined for frmDashBoard **/
     AS_Form_j566416c12a8433baf884fc5c3afd565: function AS_Form_j566416c12a8433baf884fc5c3afd565(eventobject) {

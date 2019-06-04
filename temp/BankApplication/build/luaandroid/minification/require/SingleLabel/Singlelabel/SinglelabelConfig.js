@@ -1,0 +1,57 @@
+define(function() {
+    return {
+        "properties": [{
+            "name": "skin1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "skin2",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "LabelText",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "contentAlignment",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "height1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "height2",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "width1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "centerY1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "top1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }, {
+            "name": "left1",
+            "enumerable": true,
+            "configurable": false,
+            "writable": true
+        }],
+        "apis": [],
+        "events": ["onClick"]
+    }
+});

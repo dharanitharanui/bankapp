@@ -24,10 +24,6 @@
     },
     "_skin_": "s2fe33e054a2467fbb94db65ad5c31ac",
     "_text_": "Search for IFSC",
-    "_top_": {
-        "type": "string",
-        "value": "20%"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"

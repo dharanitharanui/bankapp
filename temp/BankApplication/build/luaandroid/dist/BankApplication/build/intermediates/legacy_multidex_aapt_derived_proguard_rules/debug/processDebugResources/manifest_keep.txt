@@ -1,0 +1,2 @@
+# Referenced at A:\BankApplication\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23
+-keep class com.konylabs.android.KonyApplication { <init>(...); }

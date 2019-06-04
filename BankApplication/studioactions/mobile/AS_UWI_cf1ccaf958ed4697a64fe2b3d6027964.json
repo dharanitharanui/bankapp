@@ -1,31 +1,27 @@
 {
     "AS_UWI_cf1ccaf958ed4697a64fe2b3d6027964": {
-        "actions": [
-            {
-                "disabled": null,
-                "display": "Answer8",
-                "id": "INVOKE_FUNCTION___a5517e5cd895485aa52dfccbfe162b6f",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Answer8",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_cf1ccaf958ed4697a64fe2b3d6027964",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "dc3cc3c262c94fbebb2349627ded22ec",
             "name": "frmHelpandContact",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_cf1ccaf958ed4697a64fe2b3d6027964",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a5517e5cd895485aa52dfccbfe162b6f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Answer8",
+            "display": "Answer8",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

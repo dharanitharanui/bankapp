@@ -1,50 +1,40 @@
 {
     "AS_Image_g0296e51b22d40418034248f7832cc0c": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "HamburgerIn",
-                "id": "INVOKE_FUNCTION___ca8e7a5b77a54a4cb5b78ba2d57cc388",
-                "inputparams": [
-                    {
-                        "name": "eventobject"
-                    },
-                    {
-                        "name": "x"
-                    },
-                    {
-                        "name": "y"
-                    }
-                ],
-                "parentId": null,
-                "sequenceKUID": "HamburgerIn",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_Image_g0296e51b22d40418034248f7832cc0c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": null,
             "type": "forms"
         },
-        "id": "AS_Image_g0296e51b22d40418034248f7832cc0c",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ca8e7a5b77a54a4cb5b78ba2d57cc388",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HamburgerIn",
+            "display": "HamburgerIn",
+            "inputparams": [{
                 "name": "eventobject"
-            },
-            {
-                "datatype": "string",
+            }, {
                 "name": "x"
-            },
-            {
-                "datatype": "string",
+            }, {
                 "name": "y"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

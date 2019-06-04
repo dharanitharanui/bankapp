@@ -29,7 +29,7 @@
     "_skin_": "sc0e645ffcc8483a9f4ed0b8bfb23c5d",
     "_top_": {
         "type": "string",
-        "value": "30%"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,11 @@
     "data": {
         "autoCapitalize": "words",
         "error": "Name cannot be empty.",
-        "placeholder": "Recipient name",
+        "keyBoardStyle": {
+            "Default": "digitpad"
+        },
+        "placeholder": "Amount",
+        "textInputMode": "N",
         "visible": false
     },
     "enablescrolling": true,
@@ -51,7 +55,7 @@
     "iscustomlayout": false,
     "issegmentchild": false,
     "isvisible": true,
-    "kuid": "c798bdd612694f389ef58f8b38ac2544",
+    "kuid": "j52eec6224ed4dd19329dceda98171f7",
     "layouttype": 2,
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",

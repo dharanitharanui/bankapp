@@ -1,31 +1,27 @@
 {
     "AS_UWI_c72a8bf431684aa99636334175fe1c6a": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "Apply",
-                "id": "INVOKE_FUNCTION___fe4cc5529a704981a78cd62653d1c704",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "Apply",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_c72a8bf431684aa99636334175fe1c6a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "ue706e3e077a4a07afb3aac7cfa986a6",
             "name": "uwue706e3e077a4a07afb3aac7cfa986a6",
             "type": "userwidgets"
         },
-        "id": "AS_UWI_c72a8bf431684aa99636334175fe1c6a",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fe4cc5529a704981a78cd62653d1c704",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Apply",
+            "display": "Apply",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

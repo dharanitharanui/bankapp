@@ -1,32 +1,28 @@
 {
     "AS_UWI_h7c8391241b8461cbfb5a4a824a64911": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "withinbank",
-                "id": "INVOKE_FUNCTION___f279779a3c28438cb18efc451beac9a5",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "withinbank",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_UWI_h7c8391241b8461cbfb5a4a824a64911",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "b1baade181314b52957d7d4da8f7675d",
             "name": "frmFundTransfer",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_UWI_h7c8391241b8461cbfb5a4a824a64911",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f279779a3c28438cb18efc451beac9a5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "withinbank",
+            "display": "withinbank",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

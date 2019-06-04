@@ -1,42 +1,34 @@
 {
     "AS_Button_a5fe7da46da64f63b876ba78217bc3f4": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "HamburgerIn",
-                "id": "INVOKE_FUNCTION___bf69aed958314068806f041326dd9eb2",
-                "inputparams": [
-                    {
-                        "name": "eventobject"
-                    },
-                    {
-                        "name": "x"
-                    },
-                    {
-                        "name": "y"
-                    }
-                ],
-                "parentId": null,
-                "sequenceKUID": "HamburgerIn",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_Button_a5fe7da46da64f63b876ba78217bc3f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "d88e809b39eb474d8c74b94cd5bb69d6",
             "name": "frmDashBoard",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_Button_a5fe7da46da64f63b876ba78217bc3f4",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bf69aed958314068806f041326dd9eb2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HamburgerIn",
+            "display": "HamburgerIn",
+            "inputparams": [{
                 "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+            }, {
+                "name": "x"
+            }, {
+                "name": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

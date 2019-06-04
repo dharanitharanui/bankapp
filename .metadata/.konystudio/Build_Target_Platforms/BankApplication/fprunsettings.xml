@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="app-preview-settings">
+	<item value="false" key="spawindowstablet"/>
+	<item value="false" key="winphone8"/>
+	<item value="false" key="spaip"/>
+	<item value="true" key="android"/>
+	<item value="false" key="spabb"/>
+	<item value="false" key="desktopweb"/>
+	<item value="true" key="iphone"/>
+	<item value="false" key="tabrcandroid"/>
+	<item value="false" key="spaandroidtablet"/>
+	<item value="false" key="windows8"/>
+	<item value="false" key="spawinphone8"/>
+	<item value="false" key="spaan"/>
+	<item value="false" key="ipad"/>
+	<item value="false" key="spaipad"/>
+</section>

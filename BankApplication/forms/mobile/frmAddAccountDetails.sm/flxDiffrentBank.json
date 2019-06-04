@@ -41,6 +41,8 @@
         "btnSearchIfsc",
         "text2",
         "text3",
+        "text4",
+        "textRemark",
         "buttonn"
     ],
     "clipbounds": true,
@@ -51,7 +53,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "d1d3d7b10bfa4093a0822c632466b3f8",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxAccountDetails",
     "pf": "frmAddAccountDetails",
